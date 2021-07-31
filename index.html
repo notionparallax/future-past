@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+<link href="../css/interface-0.1.css" rel="stylesheet" type="text/css" />
+
+<script src="../js/paged/functions.js"></script>
+<script src="../js/paged/fnUtilities.js"></script>
+<script src="../js/paged/fnLinks.js"></script>
+<script src="../js/paged/control.js"></script>
+<link href="../css/magazine.css" rel="stylesheet" type="text/css" />
+
+<section class="front-page">
+    <h1>The Past and Futures of Digital Cultures</h1>
+    <!-- <figure>
+        <img
+            src="https://www.pngfind.com/pngs/m/271-2718608_smear-smudge-doodle-scribble-squiggle-blue-cyan-water.png"
+            class="front-page-image"
+        />
+        <figcaption>caption</figcaption>
+    </figure> -->
+</section>
+
+<section class="toc-section">
+    <div class="toc">
+        <ol>
+            {% assign articles = site.posts | sort: "week" %} 
+            {% for entry in articles %}
+            <li>
+{{ entry.week }}: <a href="#h_{{ entry.title | slugify}}">{{ entry.title }}</a>&mdash;{{ entry.authors }}
+            </li>
+            {% endfor %}
+        </ol>
+    </div>
+</section>
+
+<div class="the-articles">
+    <article
+        class="letter-from-the-editor paper-story"
+        id="letter-to-the-editor"
+    >
+        <h1
+            class="article-title"
+            id="intro"
+            data-article-title="Letter to the editor"
+        >
+            Readings for this course
+        </h1>
+
+        <p>Hi,</p>
+        <p>intro text</p>
+    </article>
+
+    {% assign articles = site.posts | sort: "week" %} {% for entry in articles
+    %}
+<article
+id="{{ entry.title | slugify}}"
+class="paper-story"
+data-article-title="{{ entry.title }}"
+>
+
+<h1 class="article-title" id="h_{{ entry.title | slugify}}">{{ entry.title}}</h1>
+
+<div class="top-meta">{{entry.authors}}, {{entry.source_publish_date | date: "%Y"}}. for week {{ entry.week }}.</div>
+
+{{ entry.content | markdownify}}
+
+<p class="dinkus">〰️🤖〰️</p>
+</article>
+    {% endfor %}
+
+    <article id="colophon" class="colophon paper-story">
+        <h1 class="article-title" data-article-title="Colophon">Colophon</h1>
+        <p>some other things at the end</p>
+    </article>
+</div>
+
+<section class="inside-back-cover"></section>
+
+<section class="back-page"></section>
