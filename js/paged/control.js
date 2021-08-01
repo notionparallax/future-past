@@ -79,7 +79,7 @@ class MyHandler extends Paged.Handler {
     //     //     .forEach((x) => x.classList.remove("pre-math"));
     // }
 }
-Paged.registerHandlers(MyHandler);
+// Paged.registerHandlers(MyHandler);
 
 function hidePageNumberOnBackPage() {
     Array.from(document.querySelectorAll(".back-page"))

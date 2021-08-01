@@ -78,9 +78,9 @@ In the worlds of U.S. commerce and government, these systems reached a pinnacle 
 
 <figure>
 
-|                                                                                                                                  |                                                                                                                                                                                                                                                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![The Teletype ASR-33. The Teletype had only uppercase letters, numbers, and a few special characters.](/assets/21/teletype.jpg) | ![Teletypes were used as the main input-output device for the early personal computers, until inexpensive video terminals became available. This piece of Teletype tape contains an interpreter for the BASIC programming language, Microsoft's first product](/assets/21/punch_roll.jpg) |
+![The Teletype ASR-33. The Teletype had only uppercase letters, numbers, and a few special characters.](/assets/21/teletype.jpg)
+
+![Teletypes were used as the main input-output device for the early personal computers, until inexpensive video terminals became available. This piece of Teletype tape contains an interpreter for the BASIC programming language, Microsoft's first product](/assets/21/punch_roll.jpg)
 
 <figcaption>
 Figure 1.2 (left) The Teletype ASR-33. The Teletype had only uppercase letters, numbers, and a few special characters. In 1972 Ray Tomlinson, an engineer at Bolt Beranek and Newman in Cambridge, Massachusetts, chose the @ sign (shift-p) to separate the recipient of an e-mail message from the host machine to which that message was addressed; it has since become the symbol of the Internet age. (Source: Digital Equipment Corporation, now Hewlett-Packard) (above) Teletypes were used as the main input-output device for the early personal computers, until inexpensive video terminals became available. This piece of Teletype tape contains an interpreter for the BASIC programming language, Microsoft's first product. (Credit: Smithsonian Institution)

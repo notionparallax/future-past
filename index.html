@@ -27,15 +27,14 @@ layout: default
         <ol>
             {% assign articles = site.posts | sort: "week" %} 
             {% for entry in articles %}
-            <li>
-{{ entry.week }}: <a href="#h_{{ entry.title | slugify}}">{{ entry.title }}</a>&mdash;{{ entry.authors }}
-            </li>
+            <li>{{ entry.week }}: <a href="#h_{{ entry.title | slugify}}">{{ entry.title }}</a>&mdash;{{ entry.authors }}</li>
             {% endfor %}
         </ol>
     </div>
 </section>
 
 <div class="the-articles">
+    <article><p>💩</p><p>💩</p><p>💩</p><p>💩</p><p>💩</p><p>💩</p></article>
     <article
         class="letter-from-the-editor paper-story"
         id="letter-to-the-editor"
