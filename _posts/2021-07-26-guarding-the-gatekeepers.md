@@ -74,30 +74,20 @@ A growing number of voices worldwide are now saying that it is time for digital 
 
 ### References
 
-<a href="#_ednref1" name="_edn1">[i]</a> Shirky, Clay (2010). _Cognitive Surplus: Creativity and Generosity in a Connected Age_. New York: Penguin.
+<div class="notes-and-refs">
 
-<a href="#_ednref2" name="_edn2">[ii]</a> Karpf, David (2018). 25 Years of WIRED Predictions: Why the Future Never Arrives’, _WIRED_, 18 September. Retrieved form &nbsp;<a href="https://www.wired.com/story/wired25-david-karpf-issues-tech-predictions/"> https://www.wired.com/story/wired25-david-karpf-issues-tech-predictions/</a>.
+-   <a href="#_ednref1" name="_edn1">[i]</a> Shirky, Clay (2010). _Cognitive Surplus: Creativity and Generosity in a Connected Age_. New York: Penguin.
+-   <a href="#_ednref2" name="_edn2">[ii]</a> Karpf, David (2018). 25 Years of WIRED Predictions: Why the Future Never Arrives’, _WIRED_, 18 September. Retrieved form &nbsp;<a href="https://www.wired.com/story/wired25-david-karpf-issues-tech-predictions/"> https://www.wired.com/story/wired25-david-karpf-issues-tech-predictions/</a>.
+-   <a href="#_ednref3" name="_edn3">[iii]</a> _The Economist_ (2018). How to tame the tech titans. 18 January. Retrieved from <a href="https://www.economist.com/news/leaders/21735021-dominance-google-facebook-and-amazon-bad-consumers-and-competition-how-tame"> https://www.economist.com/news/leaders/21735021-dominance-google-facebook-and-amazon-bad-consumers-and-competition-how-tame</a>.
+-   <a href="#_ednref4" name="_edn4">[iv]</a> Subramanian, Samanth (2017). Meet the Macedonian Teens Who Mastered Fake News and Corrupted the US Election. _WIRED_, 15 February. Retrieved from <a href="https://www.wired.com/2017/02/veles-macedonia-fake-news/"> https://www.wired.com/2017/02/veles-macedonia-fake-news/</a>.
+-   <a href="#_ednref5" name="_edn5">[v]</a> Brinklow, Adam (2016), ‘Final result: how San Francisco neighborhoods voted’, _SF Examiner_, 2 December. Retrieved from <a href="https://sf.curbed.com/2016/12/2/13820078/final-sf-voting-results-trump-neighborhoods-clinton-sanders"> https://sf.curbed.com/2016/12/2/13820078/final-sf-voting-results-trump-neighborhoods-clinton-sanders</a> .
+-   <a href="#_ednref6" name="_edn6">[vi]</a> Samuels, Brett (2017). Feinstein to tech execs: 'I don't think you get it'. _The Hill_, November 1. Retrieved from <a href="https://thehill.com/business-a-lobbying/358232-feinstein-to-tech-cos-i-dont-think-you-get-it"> https://thehill.com/business-a-lobbying/358232-feinstein-to-tech-cos-i-dont-think-you-get-it</a>.
+-   <a href="#_ednref7" name="_edn7">[vii]</a> Watson, Chloe (2018). The key moments from Mark Zuckerberg's testimony to Congress. _The Giardian_, April 11. Retrieved from <a href="https://www.theguardian.com/technology/2018/apr/11/mark-zuckerbergs-testimony-to-congress-the-key-moments"> https://www.theguardian.com/technology/2018/apr/11/mark-zuckerbergs-testimony-to-congress-the-key-moments</a>.
+-   <a href="#_ednref8" name="_edn8">[viii]</a> Tufecki, Zeynep (2018). Why Mark Zuckerberg’s 14 Year Apology Tour Hasn’t Fixed Facebook’, WIRED, April 18. Retrieved from <a href="https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/"> https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/</a>.
+-   <a href="#_ednref9" name="_edn9">[ix]</a> Vaughan-Nichols, Stephen (2018). EU smacks internet in the face with link tax and upload filter laws. _ZDNet_, September 12. Retrieved from <a href="https://www.zdnet.com/article/eu-smacks-internet-in-the-face-with-link-tax-and-upload-filter-laws/"> https://www.zdnet.com/article/eu-smacks-internet-in-the-face-with-link-tax-and-upload-filter-laws/</a> .
+-   <a href="#_ednref10" name="_edn10">[x]</a> For a broad sketch of what such public interest principles would look like, see Robert Picard and Vincent Pickard (2017), _Essential Principles for Contemporary Media and Communications Policymaking_, Oxford: University of Oxford
+-   <a href="#_ednref11" name="_edn11">[xi]</a> Nieva, Richard (2018). Jack Dorsey defends Twitter from charges of bias against conservatives. _C/Net_, 5 September. Retrieved from <a href="https://www.cnet.com/news/jack-dorsey-defends-twitter-against-conservative-bias-at-house-hearing/">https://www.cnet.com/news/jack-dorsey-defends-twitter-against-conservative-bias-at-house-hearing/</a> .
 
-<a href="#_ednref3" name="_edn3">[iii]</a> _The Economist_ (2018). How to tame the tech titans. 18 January. Retrieved from <a href="https://www.economist.com/news/leaders/21735021-dominance-google-facebook-and-amazon-bad-consumers-and-competition-how-tame"> https://www.economist.com/news/leaders/21735021-dominance-google-facebook-and-amazon-bad-consumers-and-competition-how-tame</a>.
-
-<a href="#_ednref4" name="_edn4">[iv]</a> Subramanian, Samanth (2017). Meet the Macedonian Teens Who Mastered Fake News and Corrupted the US Election. _WIRED_, 15 February. Retrieved from <a href="https://www.wired.com/2017/02/veles-macedonia-fake-news/"> https://www.wired.com/2017/02/veles-macedonia-fake-news/</a>.
-
-<a href="#_ednref5" name="_edn5">[v]</a> Brinklow, Adam (2016), ‘Final result: how San Francisco neighborhoods voted’, _SF Examiner_, 2 December. Retrieved from <a href="https://sf.curbed.com/2016/12/2/13820078/final-sf-voting-results-trump-neighborhoods-clinton-sanders"> https://sf.curbed.com/2016/12/2/13820078/final-sf-voting-results-trump-neighborhoods-clinton-sanders</a> .
-
-<a href="#_ednref6" name="_edn6">[vi]</a> Samuels, Brett (2017). Feinstein to tech execs: 'I don't think you get it'. _The Hill_, November 1. Retrieved from <a href="https://thehill.com/business-a-lobbying/358232-feinstein-to-tech-cos-i-dont-think-you-get-it"> https://thehill.com/business-a-lobbying/358232-feinstein-to-tech-cos-i-dont-think-you-get-it</a>.
-
-<a href="#_ednref7" name="_edn7">[vii]</a> Watson, Chloe (2018). The key moments from Mark Zuckerberg's testimony to Congress. _The Giardian_, April 11. Retrieved from <a href="https://www.theguardian.com/technology/2018/apr/11/mark-zuckerbergs-testimony-to-congress-the-key-moments"> https://www.theguardian.com/technology/2018/apr/11/mark-zuckerbergs-testimony-to-congress-the-key-moments</a>.
-
-<a href="#_ednref8" name="_edn8">[viii]</a> Tufecki, Zeynep (2018).
-Why Mark Zuckerberg’s 14 Year Apology Tour Hasn’t Fixed Facebook’, WIRED, April 18. Retrieved from <a href="https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/"> https://www.wired.com/story/why-zuckerberg-15-year-apology-tour-hasnt-fixed-facebook/</a>.
-
-<a href="#_ednref9" name="_edn9">[ix]</a> Vaughan-Nichols, Stephen (2018). EU smacks internet in the face with link tax and upload filter laws. _ZDNet_, September 12. Retrieved from <a href="https://www.zdnet.com/article/eu-smacks-internet-in-the-face-with-link-tax-and-upload-filter-laws/"> https://www.zdnet.com/article/eu-smacks-internet-in-the-face-with-link-tax-and-upload-filter-laws/</a> .
-
-<a href="#_ednref10" name="_edn10">[x]</a> For a broad sketch of what such public interest principles would look like, see Robert Picard and Vincent Pickard (2017), _Essential Principles for Contemporary Media and Communications Policymaking_, Oxford: University of Oxford
-
-<a href="#_ednref11" name="_edn11">[xi]</a> Nieva, Richard (2018).
-Jack Dorsey defends Twitter from charges of bias against conservatives. _C/Net_, 5 September. Retrieved from <a href="https://www.cnet.com/news/jack-dorsey-defends-twitter-against-conservative-bias-at-house-hearing/">https://www.cnet.com/news/jack-dorsey-defends-twitter-against-conservative-bias-at-house-hearing/</a> .
-
----
+## </div>
 
 From Griffith Review Edition 64: The New Disruptors &copy; Copyright Griffith University & the author.

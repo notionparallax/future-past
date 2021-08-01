@@ -88,76 +88,63 @@ Lively alterity relations are established in many other contexts of human-techno
 
 ## References
 
-[1] Diftler MA, Ahlstrom TD, Ambrose RO, Radford NA, Joyce CA, De La Pena N, et al. Robonaut 2 - Initial activities on-board the ISS. IEEE Aerospace Conference Proceedings. 2012;1-12.
+<div class="notes-and-refs">
 
-[2] VideoFromSpace. First robot to astronaut handshake on-orbit. YouTube; 2012. [3] Mauss M. The gift. Forms and functions of exchange in archaic societies. London: Cohen and West; 1966.
+-   [1] Diftler MA, Ahlstrom TD, Ambrose RO, Radford NA, Joyce CA, De La Pena N, et al. Robonaut 2 - Initial activities on-board the ISS. IEEE Aerospace Conference Proceedings. 2012;1-12.
+-   [2] VideoFromSpace. First robot to astronaut handshake on-orbit. YouTube; 2012.
+-   [3] Mauss M. The gift. Forms and functions of exchange in archaic societies. London: Cohen and West; 1966.
+-   [4] Goffman E. Relations in public: Microstudies of the public order. New York: Basic Books; 1971.
+-   [6] Cranny-Francis A. Technology and touch. The biopolitics of emerging technologies. London: Palgrave
+-   [8] Coeckelbergh M. Moved by machines: Performance metaphors and philosophy of technology. New
+-   [11] Slack S, Wise JM. Cultural Studies and communication technology. In: Lievrouw LA, Livingstone S,
+-   [12] Sumner EM, Ramirez A. Media and Communications. In: Allen M, editor. Allen, M The SAGE Encyclopedia of Communication Research Methods.
+-   [15] Ihde D. Technology and the lifeworld. Bloomington: Indiana University Press; 1996.
+-   [16] Silvera-Tawil D, Rye D, Velonaki M. Artificial skin and tactile sensing for socially interactive robots: A
+-   [20] NASA. Astronaut biography: Daniel C. Burbank. [Internet]. Houston, TX: NASA; 2018, Available from: http://www.nasa.gov/astronauts/biographies/daniel-c-burbank.
+-   [5] Schiffrin D. Handwork as ceremony: The case of the handshake. Nonverbal Communication, Interaction, and Gesture: Selections from SEMIOTICA. 2010;237-50. Macmillan UK; 2013.
+-   [7] Wright J. Historic handshake for Robonaut 2 [Internet]. National Aeronautics and Space Administration. 2017. Available from: https://www.nasa.gov/mission_pages/station/main/r2_handshake.html. York: Routledge; 2019.
+-   [9] Field T. Touch. Second Edi. Cambridge MA; 2014.
+-   [10] Scott M. Tactual perception. Australasian Journal of Philosophy. 2001;79(2):149-60.
+-   editors. Handbook of New Media: Social Shaping and Consequences of ICTs. Student Ed. London: Sage; 2006. p. 141-162.
+-   [13] Castañeda C, Suchman L. Robot visions. Social Studies of Science. 2014;44(3):315-41.
+-   [14] Heidegger M, Macquarrie J, Robinson E. Being and time. Oxford: Basil Blackwell; 1962.
+-   review. Robotics and Autonomous Systems. 2015;63(P3):230-43.
+-   [17] Yohanan S, MacLean KE. The role of affective touch in human-robot interaction: Human intent and expectations in touching the Haptic Creature. International Journal of Social Robotics. 2012;4(2):163-80.
+-   [18] National Aeronautics and Space Administration. NASAfacts - Robonaut Facts. 2011.
+-   [19] Bonsor K, Gerbis N. How Robonauts work [Internet]. How stuff works. Available from: https://science.howstuffworks.com/robonaut2.html.
+-   [21] Robles-De-La-Torre G. The Importance of the sense of touch in virtual and real environments. IEEE Multimedia. 2006;13(3):24-30.
+-   [22] Gibson JJ. Psychological Review Observations on Active Touch Psychological Review. 1962;69(6):477-91.
+-   [23] Schiff W, Foulke E. Tactual Perception: A Sourcebook. In Cambridge: Cambridge University Press; 1982.
+-   [24] Ponton D. The pragmatics of the handshake: A politeness index in British and Italian usage. Vestnik Rossijskogo Universiteta Družby Narodov: Seriâ Lingvistika. 2014;0(4):60-75.
+-   [25] Bennington G. Handshake. Derrida today. 2008;1(2):167-84.
+-   [26] White RJ. Weightlessness and the human body. Scientific American. 1998;279(3):58-63.
+-   [27] Gaskill M. Making sense of human senses in space [Internet]. NASA website. 2018. Available from: https://www.nasa.gov/mission_pages/station/research/news/human_senses_in_space.
+-   [28] Coeckelbergh M. Growing moral relations. Growing Moral Relations. Houndsmills: Palgrave Macmillan UK; 2012.
+-   [29] Cerulo KA. Nonhumans in Social Interaction. Annual Review of Sociology. 2009;35(1):531-52.
+-   [30] Horton D, Richard Wohl R. Mass communication and para-social interaction. Psychiatry. 1956;19(3):215-29.
+-   [31] Reeves B, Nass CI. The media equation: How people treat computers, television, and new media like real people and places. Cambridge university press; 1996.
+-   [32] Nass C, Moon Y, Fogg BJ, Reeves B, Dryer DC. Can computer personalities be human personalities? Vol. 43, International Journal of Human - Computer Studies. 1995. p. 223-39.
+-   [33] Reeves B, Nass. CI. The media equation: How people treat computers, television, and new media like real people and places. Cambridge University Press; 1996.
+-   [34] Nass C, Moon Y. Machines and mindlessness: Social responses to computers. Journal of Social Issues. 2000;56(1):81-103.
+-   [35] Lane H. Wings in orbit: Scientific and engineering legacies of the space shuttle [Internet]. NASA website. 2011. Available from: https://www.nasa.gov/mission_pages/station/research/news/human_senses_in_space.
+-   [36] Ackerman E. NASA JSC unveils Valkyrie DRC Robot [Internet]. IEEE Spectrum. 2013. Available from: https://spectrum.ieee.org/automaton/robotics/military-robots/nasa-jsc-unveils-valkyrie-drc-robot.
+-   [37] Schaffer S. OK computer [Internet]. Imaginary futures. 2007 [cited 2020 Jul 9]. Available from: http://www.imaginary futures.net/2007/04/16/ok-computer-by-simon-schaffer.
+-   [38] Abuelsamid S. Robonaut 2 demonstration at Kennedy Space Center. NASA; 2012.
+-   [39] Bekey GA. Autonomous robots: From biological inspiration to implementation and control. The MIT Press; 2005.
+-   [40] Coding Kids. Pepper robot You only shake hands with me [Internet]. 2017. Available from: https://youtu.be/0_hICYW_17Q.
+-   [41] Dreyfus HL. What computers can't do. A critique of artificial reason. Harper and Row. 1972.
+-   [42] Dreyfus H. How representational cognitivism failed and is being replaced by body/world coupling. In: Leidlmair K, editor. After Cognitivism. Dordrecht: Springer; 2009.
+-   [43] Duffy B, Joue G. Intelligent robots: The question of embodiment. Proceedings of Brain-Machine 2000. 2000. p. 20-2.
+-   [44] Brooks RA. Intelligence without representation. Artificial Intelligence. 1991;47(1-3):139-59.
+-   [45] Brooks R. How to build complete creatures rather than isolated cognitive simulators. Artificial Intelligence. 1987;225-239.
+-   [46] Arkin R. Behavior-Based Robotics. Cambridge, MA: MIT Press; 1998.
+-   [47] Badger JM, Yamokoski JD, Wightman BJ. Towards autonomous operation of Robonaut 2. AIAA Infotech at Aerospace Conference and Exhibit 2012. 2012. p. 2-4.
+-   [48] Chesher C. FURO at Robotworld: Human-robot metacommunication and media studies. In Adelaide: Cultural Studies Association of Australia; 2012. p. 1-10.
+-   [49] Jung MM, van der Leij L., Kelders SM. An exploration of the benefits of an animallike robot companion with more advanced touch interaction capabilities for dementia care. Frontiers in ICT. 2017;4(16):1-11.
+-   [50] Jindai M, Watanabe T. A small-size handshake robot system based on a handshake approaching motion model with a voice greeting. In: 2010 IEEE/ASME International Conference on Advanced Intelligent Mechatronics. Montreal, Canada: IEEE; 2010. p. 521-6.
+-   [51] Noda T, Ishiguro H, Miyashita T, Hagita N. Map acquisition and classification of haptic interaction using cross correlation between distributed tactile sensors on the whole body surface. IEEE International Conference on Intelligent Robots and Systems. 2007. p. 1099-105.
+-   [52] Shibata T. An overview of human interactive robots for psychological enrichment. Proceedings of the IEEE. 2004;92(11):1749-58.
+-   [53] Wada K, Shibata T. Living with seal robots - Its sociopsychological and physiological influences on the elderly at a care house. IEEE Transactions on Robotics. 2007;23(5):972-80.
+-   [54] Robins B, Amirabdollahian F, Ji Z, Dautenhahn K. Tactile interaction with a humanoid robot for children with autism: A case study analysis involving user requirements and results of an initial implementation. Proceedings - IEEE International Workshop on Robot and Human Interactive Communication. 2010. p. 704-11.
 
-[4] Goffman E. Relations in public: Microstudies of the public order. New York: Basic Books; 1971. [6] Cranny-Francis A. Technology and touch. The biopolitics of emerging technologies. London: Palgrave [8] Coeckelbergh M. Moved by machines: Performance metaphors and philosophy of technology. New [11] Slack S, Wise JM. Cultural Studies and communication technology. In: Lievrouw LA, Livingstone S, [12] Sumner EM, Ramirez A. Media and Communications. In: Allen M, editor. Allen, M The SAGE Encyclopedia of Communication Research Methods. [15] Ihde D. Technology and the lifeworld. Bloomington: Indiana University Press; 1996. [16] Silvera-Tawil D, Rye D, Velonaki M. Artificial skin and tactile sensing for socially interactive robots: A [20] NASA. Astronaut biography: Daniel C. Burbank. [Internet]. Houston, TX: NASA; 2018, Available from: http://www.nasa.gov/astronauts/biographies/daniel-c-burbank.
-
-[5] Schiffrin D. Handwork as ceremony: The case of the handshake. Nonverbal Communication, Interaction, and Gesture: Selections from SEMIOTICA. 2010;237-50.
-
-Macmillan UK; 2013. [7] Wright J. Historic handshake for Robonaut 2 [Internet]. National Aeronautics and Space Administration. 2017. Available from: https://www.nasa.gov/mission_pages/station/main/r2_handshake.html.
-
-York: Routledge; 2019. [9] Field T. Touch. Second Edi. Cambridge MA; 2014.
-
-[10] Scott M. Tactual perception. Australasian Journal of Philosophy. 2001;79(2):149-60.
-
-editors. Handbook of New Media: Social Shaping and Consequences of ICTs. Student Ed. London: Sage; 2006. p. 141-162.
-
-[13] Castañeda C, Suchman L. Robot visions. Social Studies of Science. 2014;44(3):315-41. [14] Heidegger M, Macquarrie J, Robinson E. Being and time. Oxford: Basil Blackwell; 1962.
-
-review. Robotics and Autonomous Systems. 2015;63(P3):230-43. [17] Yohanan S, MacLean KE. The role of affective touch in human-robot interaction: Human intent and expectations in touching the Haptic Creature. International Journal of Social Robotics. 2012;4(2):163-80.
-
-[18] National Aeronautics and Space Administration. NASAfacts - Robonaut Facts. 2011. [19] Bonsor K, Gerbis N. How Robonauts work [Internet]. How stuff works. Available from: https://science.howstuffworks.com/robonaut2.html.
-
-[21] Robles-De-La-Torre G. The Importance of the sense of touch in virtual and real environments. IEEE Multimedia. 2006;13(3):24-30. [22] Gibson JJ. Psychological Review Observations on Active Touch Psychological Review.
-
-1962;69(6):477-91. [23] Schiff W, Foulke E. Tactual Perception: A Sourcebook. In Cambridge: Cambridge University Press; 1982.
-
-[24] Ponton D. The pragmatics of the handshake: A politeness index in British and Italian usage. Vestnik Rossijskogo Universiteta Družby Narodov: Seriâ Lingvistika. 2014;0(4):60-75.
-
-[25] Bennington G. Handshake. Derrida today. 2008;1(2):167-84.
-
-[26] White RJ. Weightlessness and the human body. Scientific American. 1998;279(3):58-63. [27] Gaskill M. Making sense of human senses in space [Internet]. NASA website. 2018. Available from: https://www.nasa.gov/mission_pages/station/research/news/human_senses_in_space. [28] Coeckelbergh M. Growing moral relations. Growing Moral Relations. Houndsmills: Palgrave Macmillan UK; 2012.
-
-[29] Cerulo KA. Nonhumans in Social Interaction. Annual Review of Sociology. 2009;35(1):531-52. [30] Horton D, Richard Wohl R. Mass communication and para-social interaction. Psychiatry. 1956;19(3):215-29.
-
-[31] Reeves B, Nass CI. The media equation: How people treat computers, television, and new media like real people and places. Cambridge university press; 1996.
-
-[32] Nass C, Moon Y, Fogg BJ, Reeves B, Dryer DC. Can computer personalities be human personalities? Vol. 43, International Journal of Human - Computer Studies. 1995. p. 223-39.
-
-[33] Reeves B, Nass. CI. The media equation: How people treat computers, television, and new media like real people and places. Cambridge University Press; 1996.
-
-[34] Nass C, Moon Y. Machines and mindlessness: Social responses to computers. Journal of Social Issues. 2000;56(1):81-103.
-
-[35] Lane H. Wings in orbit: Scientific and engineering legacies of the space shuttle [Internet]. NASA website. 2011. Available from: https://www.nasa.gov/mission_pages/station/research/news/human_senses_in \_space.
-
-[36] Ackerman E. NASA JSC unveils Valkyrie DRC Robot [Internet]. IEEE Spectrum. 2013. Available from: https://spectrum.ieee.org/automaton/robotics/military-robots/nasa-jsc-unveils-valkyrie-drc-robot. [37] Schaffer S. OK computer [Internet]. Imaginary futures. 2007 [cited 2020 Jul 9]. Available from:
-
-http://www.imaginary futures.net/2007/04/16/ok-computer-by-simon-schaffer. [38] Abuelsamid S. Robonaut 2 demonstration at Kennedy Space Center. NASA; 2012.
-
-[39] Bekey GA. Autonomous robots: From biological inspiration to implementation and control. The MIT Press; 2005.
-
-[40] Coding Kids. Pepper robot You only shake hands with me [Internet]. 2017. Available from: https://youtu.be/0_hICYW_17Q.
-
-[41] Dreyfus HL. What computers can't do. A critique of artificial reason. Harper and Row. 1972. [42] Dreyfus H. How representational cognitivism failed and is being replaced by body/world coupling. In:
-
-Leidlmair K, editor. After Cognitivism. Dordrecht: Springer; 2009. [43] Duffy B, Joue G. Intelligent robots: The question of embodiment. Proceedings of Brain-Machine 2000.
-
-2000. p. 20-2. [44] Brooks RA. Intelligence without representation. Artificial Intelligence. 1991;47(1-3):139-59.
-
-[45] Brooks R. How to build complete creatures rather than isolated cognitive simulators. Artificial Intelligence. 1987;225-239. [46] Arkin R. Behavior-Based Robotics. Cambridge, MA: MIT Press; 1998.
-
-[47] Badger JM, Yamokoski JD, Wightman BJ. Towards autonomous operation of Robonaut 2. AIAA Infotech at Aerospace Conference and Exhibit 2012. 2012. p. 2-4.
-
-[48] Chesher C. FURO at Robotworld: Human-robot metacommunication and media studies. In Adelaide: Cultural Studies Association of Australia; 2012. p. 1-10.
-
-[49] Jung MM, van der Leij L., Kelders SM. An exploration of the benefits of an animallike robot companion with more advanced touch interaction capabilities for dementia care. Frontiers in ICT. 2017;4(16):1-11.
-
-[50] Jindai M, Watanabe T. A small-size handshake robot system based on a handshake approaching motion model with a voice greeting. In: 2010 IEEE/ASME International Conference on Advanced Intelligent Mechatronics. Montreal, Canada: IEEE; 2010. p. 521-6. [51] Noda T, Ishiguro H, Miyashita T, Hagita N. Map acquisition and classification of haptic interaction using cross correlation between distributed tactile sensors on the whole body surface. IEEE International
-
-Conference on Intelligent Robots and Systems. 2007. p. 1099-105. [52] Shibata T. An overview of human interactive robots for psychological enrichment. Proceedings of the IEEE. 2004;92(11):1749-58.
-
-[53] Wada K, Shibata T. Living with seal robots - Its sociopsychological and physiological influences on the elderly at a care house. IEEE Transactions on Robotics. 2007;23(5):972-80.
-
-[54] Robins B, Amirabdollahian F, Ji Z, Dautenhahn K. Tactile interaction with a humanoid robot for children with autism: A case study analysis involving user requirements and results of an initial implementation. Proceedings - IEEE International Workshop on Robot and Human Interactive Communication. 2010. p. 704-11.
+</div>

@@ -186,6 +186,8 @@ These events, occurring in the wake of the astonishing collapse of the Soviet Un
 
 ## Notes
 
+<div class="notes-and-refs">
+
 1. See Dave Farber, “Remarks of John Perry Barlow to the First International Symposium on National Security and National Competitiveness,” 21 Feb. 1993, textfiles.tonytee.nl/magazines/SURFPUNK/surf0059.txt.
 2. Ibid.
 3. See David Toop, “MTV Gets Tangled in the Net,” The Times (London), 28 May 1994, 16.
@@ -223,3 +225,5 @@ These events, occurring in the wake of the astonishing collapse of the Soviet Un
 34. Virginia Postrel, “On the Frontier: From the Wild East of Russian Capitalism to the Evolving Forms of Cyberspace, Esther Dyson Likes the Promise of Unsettled Territory—and the Challenge of Civilizing It,” Reason Magazine, Oct. 1996, www.reason.com/news/show/30021.html.
 35. Christopher Anderson, “The Accidental Superhighway (The Internet Survey),” The Economist (US), 1 July 1995, 4.
 36. Ibid., 3.
+
+</div>

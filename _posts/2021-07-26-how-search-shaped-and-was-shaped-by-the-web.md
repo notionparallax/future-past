@@ -228,12 +228,14 @@ cantly to the evolution of web search. That back and forth is likely to continue
 
 ## REFERENCES
 
+<div class="notes-and-refs">
+
 -   Abelson, H., Ledeen, K., and Lewis, H.R. (2008) _Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion_. Upper Saddle River, New Jersey: Addison-Wesley.
 -   Abrams, D., Baecker, R., and Chignell, M. (1998) ‘Information Archiving with Bookmarks: Personal Web Space Construction and Organization’, _CHI ‘98 Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, Los Angeles, California, April 18–23, New York: ACM, pp. 41–8.
 -   Berners-Lee, T. (1991) WorldWideWeb: Summary, Usenet: alt.hypertext, 9 August 1991. Available at: <a href="https://groups.google.com/"     >https://groups.google.com/forum/#!msg/comp.archives/CfsHlSNYPUI/DTs60INnuzcJ</a> [Accessed 15 June 2018].
 -   Berners-Lee, T. (1996) The World Wide Web: Past, Present and Future. Available at: <a href="https://www.w3.org/People/Berners-Lee/1996/ppf.html">https://www.w3.org/People/Berners-Lee/1996/ppf.html</a> [Accessed 15 June 2018].
 -   Bharat, K., and Broder, A. (1998) ‘A Technique for Measuring the Relative Size and Overlap of Public Web Search Engines’, _Computer Networks and ISDN Systems_, 30(1): 379–88. Blakely, R., and McCormack, H. (2006) ‘Google’s “Death Penalty” for BMW’, _The Times_ <a href="https://www.thetimes.co.uk/article/googles-death-penalty-for-bmw-wpbtz992h8v">, February 6. Available at: https://www.the-times.co.uk/article/googles-death-penalty-for-bmw-wpbtz992h8v</a>[Accessed 15 June 2018].
--   Borgman, C.L. (1986) ‘The User’s Mental Model of an Information Retrieval System: An Experiment on a Prototype Online Catalog’, \_International Journal of Man-Machine Studies, \_24(1): 47–64.
+-   Borgman, C.L. (1986) ‘The User’s Mental Model of an Information Retrieval System: An Experiment on a Prototype Online Catalog’, _International Journal of Man-Machine Studies_, 24(1): 47–64.
 -   Bush, V. (1945) ‘As We May Think’, _Atlantic Monthly_, 176: 101–8.
 -   Callery, A. (1996) ‘Yahoo! Cataloging the Web’, _Untangling the Web: Proceedings of the Conference Sponsored by the Librarians Association of the University of California, Santa Barbara, and Friends of the UCSB Library_<a href="http://files.eric.ed.gov/fulltext/ED403886.pdf">. Available at: http://files.eric.ed.gov/fulltext/ED403886.pdf</a> [Accessed 15 June 2018].
 -   Carr, N. (2008) ‘Is Google Making Us Stupid? What the Internet Is Doing to Our Brains’, _The Atlantic_, July/August. Available at: <a href="https://www.theatlantic.com/magazine">https://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/</a> [Accessed 15 June 2018].
@@ -262,7 +264,7 @@ cantly to the evolution of web search. That back and forth is likely to continue
 -   Pegoraro, R. (1999) ‘Googly Eyes’, _The Washington Post_, January 22, p. N62.
 -   Pinkerton, B. (1994) ‘Finding What People Want: Experiences with WebCrawler’, presented at the Second World Wide Web Conference, Chicago, October 17–19.
 -   Price, D. De S. (1976) ‘A General Theory of Bibliometric and Other Cumulative Advantage Processes’, _Journal of the American Society for Information Science_, 27(5): 292–306.
--   Salton, G. (1975) \_A Theory of Indexing. \_Philadelphia: Society for Industrial and Applied Mathematics.
+-   Salton, G. (1975) _A Theory of Indexing_. Philadelphia: Society for Industrial and Applied Mathematics.
 -   Sanderson, M., and Croft, W.B. (2012) ‘The History of Information Retrieval Research’, _Proceedings of the IEEE_, _100 _(Special Centennial Issue): 1444–51.
 -   Schwartz, B. (2015) ‘Google: Again, Social Signals Do Not Influence Your Ranking’, Search Engine Roundtable. Available at: <a href="https://www.seroundtable.com/google-social-signals-ranking-20803.html">https://www. seroundtable.com/google-social-signals-ranking-20803.html</a> [Accessed 15 June 2018].
 -   Schwartz, C. (1998) ‘Web Search Engines’, _Jounal of the American Society for Information Science_, 49(11): 973–82.
@@ -274,3 +276,5 @@ cantly to the evolution of web search. That back and forth is likely to continue
 -   University Library, 21: 241–53. Vaidhyanathan, S. (2011) _The Googlization of_ Everything (And Why We Should Worry). Berkeley: University of California Press.
 -   Wauters, R. (2011). ‘DuckDuckGo to Google, Bing Users: Escape Them Filter Bubbles!’ _Tech Crunch_<a    href="https://techcrunch.com/2011/06/20/duckduckgo-to-google-bing-users-escape-them-filter-bubbles">, June 20. Available at: https:// techcrunch.com/2011/06/20/duckduckgo-to-google-bing-users-escape-them-filter-bubbles/</a> [Accessed 15 June 2018].
 -   Zakon, R.H. (2017) Hobbes’ Internet Timeline 24. Available at: <a href="https://www.zakon.org/robert/internet/timeline">https://www.zakon.org/robert/internet/timeline/</a> [Accessed 15 June 2018].
+
+</div>

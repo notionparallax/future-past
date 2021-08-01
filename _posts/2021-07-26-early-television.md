@@ -176,108 +176,60 @@ Social concerns about mobile forms of domestic leisure embodied in portable TV a
 
 ## References
 
-Anderson, B. (1991) _Imagined Communities: Reflections on the Origin and Spread of Nationalism_, London: Verso.
+<div class="notes-and-refs">
 
-Andrews, M. (2012) _Domesticating the Airwaves: Broadcasting, Domesticity and Femininity_, London: Continuum.
+-   Anderson, B. (1991) _Imagined Communities: Reflections on the Origin and Spread of Nationalism_, London: Verso.
+-   Andrews, M. (2012) _Domesticating the Airwaves: Broadcasting, Domesticity and Femininity_, London: Continuum.
+-   Bailey, M. (ed.) (2009) _Narrating Media History_, London: Routledge.
+-   Barthes, R. (1977) _Image-Music-Text_, London: Fontana.
+-   Baudrillard, J. (1985) ‘The Ecstasy of Communication’, in Hal Foster (ed.) _Postmodern Culture_, London: Pluto Press, pp. 126–134.
+-   Beck, U. and Beck-Gernsheim, E. (1995) _The Normal Chaos of Love_, Cambridge: Polity Press.
+-   Boddy, W. (2004) _New Media and Popular Imagination: Launching Radio, Television and Digital Media in the United States_, Oxford: Oxford University Press.
+-   Briggs, A. (1979 [2000]) _The History of Broadcasting in the United Kingdom, Vol. 4: Sound and Vision_, Oxford: Oxford University Press.
+-   Bussey, G. (1980) ‘Vintage Television Receivers’, in _The Great Optical Illusion_, Science Museum, London (A Philips Industries publication in Conjunction with Thorn Consumer Electronics for the Special Exhibition on Television, March to September).
+-   Chambers, D. (2011) ‘The Material Form of the TV Set: A Cultural History’, _Media History_ 17 (4), pp. 359–375.
+-   Chambers, D. (2012) _A Sociology of Family Life: Change and Diversity in Intimate Relations_, Cambridge: Polity Press.
+-   Cieraad, I. (2006) ‘Introduction: Anthropology at Home’, in Irene Cieraad (ed.) _At Home: An Anthropology of Domestic Space_, Syracuse, NY: Syracuse University Press, pp. 1–12.
+-   Fachel Leal, O. (1990) ‘Popular Taste and Erudite Repertoire: The Place and Space of Television in Brazil’, _Cultural Studies_ 4 (1), pp. 19–29.
+-   Friedan, B. (1992 [1963]) _The Feminine Mystique_, Harmondsworth: Penguin.
+-   Forty, A. (1986) _Objects of Desire: Design and Society Since 1750_, London: Thames and Hudson.
+-   Gauntlett, D. and Hill, A. (1999) _TV Living: Television Culture and Everyday Life_, London: Routledge.
+-   Giddens, A. (1992) _The Transformation of Intimacy: Sexuality, Love and Eroticism in Modern Societies_, Oxford: Polity Press.
+-   Himmelweit, H.T., Oppenheim, A.N. and Vince, P. (1958) _Television and the Child: An Empirical Study of the Effect of Television on the Young_, London: Published for the Nuffield Foundation by Oxford University Press.
+-   Hirsch, E. (1992) ‘New Technologies and Domestic Consumption’, in Roger Silverstone and Eric Hirsch (eds) _Consuming Media Technologies: Media and Information in Domestic Spaces_, London: Routledge, pp. 208–226.
+-   Hollows, J. (2008) _Domestic Cultures_, Maidenhead: Open University Press.
+-   Hopkins, H. (1961) _The New Look: A Social History of the Forties and Fifties_, London: Secker and Warburg.
+-   Irwin, M. (2015) ‘BBC’s Wednesday Magazine and Arts Televison for Women’, _Media History_ 21 (2), pp. 162–177.
+-   Jansson, A. (2013) ‘Mediatisation and Social Space: Reconstructing Mediatisation for the Transmedia Age’, _Communication Theory_ 23 (3), pp. 279–296.
+-   Jones, M. (2003) ‘Design and the Domestic Persuader: Television and the British Broadcasting Corporation’s Promotion of Post-war “Good Design”’, _Design History_ 16 (4), pp. 307–318.
+-   Klinger, B. (2006) _Beyond the Multiplex: Cinema, New Technologies and the Home_, Berkeley, CA: University of California Press.
+-   Kosareff, S. (2005) _Window to the Future: The Golden Age of Television Marketing and Advertising_, San Francisco, CA: Chronicle Books.
+-   Lally, E. (2002) _At Home with Computers_, Berg: Oxford.
+-   Latour, B. (1993) _We Have Never Been Modern_, London: Harvester Press.
+-   Leman, J. (1987) ‘Women’s Programmes: Why Not?’, in Helen Baehr and Gillian Dyer (eds) Boxed In: _Women and Television_, London: Pandora, pp. 84–92.
+-   Maguire, P. and Woodham, J. (1997) _Design and Cultural Politics in Post-war Britain: The ‘Britain Can Make It’ Exhibition of 1946_, Leicester: Leicester University Press.
+-   Mann, D. (1992) ‘The Spectacularisation of Everyday Life: Recycling Hollywood Stars and Fans in Early Televison Variety Shows’, in Lyn Spigel and Denise Mann (eds) Private Screenings: _Television and the Female Consumer_, Minneapolis, MN: University of Minnesota Press, pp. 41–70.
+-   Marvin, C. (1988) _When Old Technologies Were New: Thinking about Communication Technologies in the Late Nineteenth Century_, Oxford: Oxford University Press.
+-   Moores, S. (1993) _Interpreting Audiences: The Ethnography of Media Consumption_, London: Sage.
+-   Morley, D. (1992) _Television, Audiences and Cultural Studies_, London: Routledge.
+-   Morley, D. (2002) _Home Territories: Media, Mobility and Identity_, London: Routledge.
+-   Morley, D. (2007) _Media, Modernity and Technology: The Geography of the New_, London: Routledge.
+-   Morse, M. (1990) ‘An Ontology of Everyday Distraction: The Freeway, the Mall, and Television’, in Patricia Mellencamp (ed.) _The Logics of Television_, Bloomington, IN: Indiana University Press, pp. 193–221.
+-   O’Sullivan, T. (1991) ‘Television Memories and Cultures of Viewing 1950–65’, in John Corner (ed.) _Popular Television in Britain_, London: British Film Institute, pp. 169–174.
+-   Peil, C. and Röser, J. (2014) ‘The Meaning of Home in the Context of Digital Mediatisation, Mobilization and Mediatisation’, in Andreas Hepp and Friedrich Krotz (eds) _Mediatised Worlds: Culture and Society in a Media Age_, Basingstoke: Palgrave Macmillan, pp. 233–252.
+-   Scannell, P. (2000) ‘For Anyone-as-Someone Structures’, _Media, Culture and Society_ 22 (1), pp. 5–24.
+-   Schwartz, D. (2006) ‘Modernism for the Masses: The Industrial Design of John Vassos’, _Archives of American Art Journal_ 46 (1–2), pp. 4–24.
+-   Scrine, R.C. (1976) ‘Milestones in Television History’, _The Technical Journal of Rediffusion Engineering_ 2 (5), pp. 142–147.
+-   Silverstone, R. (1991) ‘Beneath the Bottom Line: Households and Information and Communication Technologies in the Age of the Consumer’, PICT Policy Research Papers, No.17, Oxford: PICT.
+-   Silverstone, R. (1994) _Television and Everyday Life_, London: Routledge.
+-   Silverstone, R. and Haddon, L. (1996) ‘Design and the Domestication of Information and Communication Technologies: Technical Change and Everyday Life’, in Roger Silverstone and Robin Mansell (eds) Communication by Design: _The Politics of Information and Communication Technologies_, Oxford: Oxford University Press, pp. 44–74.
+-   Sparke, P. (2004) ‘Studying the Modern Home’, _The Journal of Architecture_ 9 (4), pp. 413–417.
+-   Spigel, L. (1990) ‘Television in the Family Circle, the Popular Reception of a New Medium’, in Patricia Mellencamp (ed.) _Logics of Television: Television, Essays in Cultural Criticism_, London: BFI Publishing, pp. 73–97.
+-   Spigel, L. (1992) _Make Room for TV: Television and the Family Ideal in Postwar America_, Chicago, IL: University of Chicago Press.
+-   Spigel, L. (2001) _Welcome to the Dreamhouse: Popular Media and Postwar Suburbia_, Durham, NC: Duke University Press. Susman, W. (1984 [1973]) Culture as History: the Transformation of American Society in the Twentieth Century, New York: Pantheon, 1973, reprinted 1984.
+-   Thompson, B. (2012) _Ban This Filth!: Letters from the Mary Whitehouse Archive_, London: Faber and Faber.
+-   Vickery, A. (1993) ‘Golden Age to Separate Spheres? A Review of the Categories and Chronology of English Women’s History’, _The Historical Journal_ 36 (2), pp. 383–414.
+-   Ward, K. (2006) ‘The Bald Guy Just Ate an Orange: Domestication, Work and Home’, in Thomas Berker, Maren Hartman, Yves Punie and Katie Ward (eds) _Domestication of Media and Technology_, Maidenhead: Open University Press, pp. 145–164.
+-   Williams, R. (1974) _Television: Technology and Cultural Form_, London: Fontana.
 
-Bailey, M. (ed.) (2009) _Narrating Media History_, London: Routledge.
-
-Barthes, R. (1977) _Image-Music-Text_, London: Fontana.
-
-Baudrillard, J. (1985) ‘The Ecstasy of Communication’, in Hal Foster (ed.) _Postmodern Culture_, London: Pluto Press, pp. 126–134.
-
-Beck, U. and Beck-Gernsheim, E. (1995) _The Normal Chaos of Love_, Cambridge: Polity Press.
-
-Boddy, W. (2004) _New Media and Popular Imagination: Launching Radio, Television and Digital Media in the United States_, Oxford: Oxford University Press.
-
-Briggs, A. (1979 [2000]) _The History of Broadcasting in the United Kingdom, Vol. 4: Sound and Vision_, Oxford: Oxford University Press.
-
-Bussey, G. (1980) ‘Vintage Television Receivers’, in _The Great Optical Illusion_, Science Museum, London (A Philips Industries publication in Conjunction with Thorn Consumer Electronics for the Special Exhibition on Television, March to September).
-
-Chambers, D. (2011) ‘The Material Form of the TV Set: A Cultural History’, _Media History_ 17 (4), pp. 359–375.
-
-Chambers, D. (2012) _A Sociology of Family Life: Change and Diversity in Intimate Relations_, Cambridge: Polity Press.
-
-Cieraad, I. (2006) ‘Introduction: Anthropology at Home’, in Irene Cieraad (ed.) _At Home: An Anthropology of Domestic Space_, Syracuse, NY: Syracuse University Press, pp. 1–12.
-
-Fachel Leal, O. (1990) ‘Popular Taste and Erudite Repertoire: The Place and Space of Television in Brazil’, _Cultural Studies_ 4 (1), pp. 19–29.
-
-Friedan, B. (1992 [1963]) _The Feminine Mystique_, Harmondsworth: Penguin.
-
-Forty, A. (1986) _Objects of Desire: Design and Society Since 1750_, London: Thames and Hudson.
-
-Gauntlett, D. and Hill, A. (1999) _TV Living: Television Culture and Everyday Life_, London: Routledge.
-
-Giddens, A. (1992) _The Transformation of Intimacy: Sexuality, Love and Eroticism in Modern Societies_, Oxford: Polity Press.
-
-Himmelweit, H.T., Oppenheim, A.N. and Vince, P. (1958) _Television and the Child: An Empirical Study of the Effect of Television on the Young_, London: Published for the Nuffield Foundation by Oxford University Press.
-
-Hirsch, E. (1992) ‘New Technologies and Domestic Consumption’, in Roger Silverstone and Eric Hirsch (eds) _Consuming Media Technologies: Media and Information in Domestic Spaces_, London: Routledge, pp. 208–226.
-
-Hollows, J. (2008) _Domestic Cultures_, Maidenhead: Open University Press.
-
-Hopkins, H. (1961) _The New Look: A Social History of the Forties and Fifties_, London: Secker and Warburg.
-
-Irwin, M. (2015) ‘BBC’s Wednesday Magazine and Arts Televison for Women’, _Media History_ 21 (2), pp. 162–177.
-
-Jansson, A. (2013) ‘Mediatisation and Social Space: Reconstructing Mediatisation for the Transmedia Age’, _Communication Theory_ 23 (3), pp. 279–296.
-
-Jones, M. (2003) ‘Design and the Domestic Persuader: Television and the British Broadcasting Corporation’s Promotion of Post-war “Good Design”’, _Design History_ 16 (4), pp. 307–318.
-
-Klinger, B. (2006) _Beyond the Multiplex: Cinema, New Technologies and the Home_, Berkeley, CA: University of California Press.
-
-Kosareff, S. (2005) _Window to the Future: The Golden Age of Television Marketing and Advertising_, San Francisco, CA: Chronicle Books.
-
-Lally, E. (2002) _At Home with Computers_, Berg: Oxford.
-
-Latour, B. (1993) _We Have Never Been Modern_, London: Harvester Press.
-
-Leman, J. (1987) ‘Women’s Programmes: Why Not?’, in Helen Baehr and Gillian Dyer (eds) Boxed In: _Women and Television_, London: Pandora, pp. 84–92.
-
-Maguire, P. and Woodham, J. (1997) _Design and Cultural Politics in Post-war Britain: The ‘Britain Can Make It’ Exhibition of 1946_, Leicester: Leicester University Press.
-
-Mann, D. (1992) ‘The Spectacularisation of Everyday Life: Recycling Hollywood Stars and Fans in Early Televison Variety Shows’, in Lyn Spigel and Denise Mann (eds) Private Screenings: _Television and the Female Consumer_, Minneapolis, MN: University of Minnesota Press, pp. 41–70.
-
-Marvin, C. (1988) _When Old Technologies Were New: Thinking about Communication Technologies in the Late Nineteenth Century_, Oxford: Oxford University Press.
-
-Moores, S. (1993) _Interpreting Audiences: The Ethnography of Media Consumption_, London: Sage.
-
-Morley, D. (1992) _Television, Audiences and Cultural Studies_, London: Routledge.
-
-Morley, D. (2002) _Home Territories: Media, Mobility and Identity_, London: Routledge.
-
-Morley, D. (2007) _Media, Modernity and Technology: The Geography of the New_, London: Routledge.
-
-Morse, M. (1990) ‘An Ontology of Everyday Distraction: The Freeway, the Mall, and Television’, in Patricia Mellencamp (ed.) _The Logics of Television_, Bloomington, IN: Indiana University Press, pp. 193–221.
-
-O’Sullivan, T. (1991) ‘Television Memories and Cultures of Viewing 1950–65’, in John Corner (ed.) _Popular Television in Britain_, London: British Film Institute, pp. 169–174.
-
-Peil, C. and Röser, J. (2014) ‘The Meaning of Home in the Context of Digital Mediatisation, Mobilization and Mediatisation’, in Andreas Hepp and Friedrich Krotz (eds) _Mediatised Worlds: Culture and Society in a Media Age_, Basingstoke: Palgrave Macmillan, pp. 233–252.
-
-Scannell, P. (2000) ‘For Anyone-as-Someone Structures’, _Media, Culture and Society_ 22 (1), pp. 5–24.
-
-Schwartz, D. (2006) ‘Modernism for the Masses: The Industrial Design of John Vassos’, _Archives of American Art Journal_ 46 (1–2), pp. 4–24.
-
-Scrine, R.C. (1976) ‘Milestones in Television History’, _The Technical Journal of Rediffusion Engineering_ 2 (5), pp. 142–147.
-
-Silverstone, R. (1991) ‘Beneath the Bottom Line: Households and Information and Communication Technologies in the Age of the Consumer’, PICT Policy Research Papers, No.17, Oxford: PICT.
-
-Silverstone, R. (1994) _Television and Everyday Life_, London: Routledge.
-
-Silverstone, R. and Haddon, L. (1996) ‘Design and the Domestication of Information and Communication Technologies: Technical Change and Everyday Life’, in Roger Silverstone and Robin Mansell (eds) Communication by Design: _The Politics of Information and Communication Technologies_, Oxford: Oxford University Press, pp. 44–74.
-
-Sparke, P. (2004) ‘Studying the Modern Home’, _The Journal of Architecture_ 9 (4), pp. 413–417.
-
-Spigel, L. (1990) ‘Television in the Family Circle, the Popular Reception of a New Medium’, in Patricia Mellencamp (ed.) _Logics of Television: Television, Essays in Cultural Criticism_, London: BFI Publishing, pp. 73–97.
-
-Spigel, L. (1992) _Make Room for TV: Television and the Family Ideal in Postwar America_, Chicago, IL: University of Chicago Press.
-
-Spigel, L. (2001) _Welcome to the Dreamhouse: Popular Media and Postwar Suburbia_, Durham, NC: Duke University Press. Susman, W. (1984 [1973]) Culture as History: the Transformation of American Society in the Twentieth Century, New York: Pantheon, 1973, reprinted 1984.
-
-Thompson, B. (2012) _Ban This Filth!: Letters from the Mary Whitehouse Archive_, London: Faber and Faber.
-
-Vickery, A. (1993) ‘Golden Age to Separate Spheres? A Review of the Categories and Chronology of English Women’s History’, _The Historical Journal_ 36 (2), pp. 383–414.
-
-Ward, K. (2006) ‘The Bald Guy Just Ate an Orange: Domestication, Work and Home’, in Thomas Berker, Maren Hartman, Yves Punie and Katie Ward (eds) _Domestication of Media and Technology_, Maidenhead: Open University Press, pp. 145–164.
-
-Williams, R. (1974) _Television: Technology and Cultural Form_, London: Fontana.
+</div>
