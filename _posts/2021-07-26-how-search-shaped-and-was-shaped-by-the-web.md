@@ -1,7 +1,7 @@
 ---
 title: "How Search Shaped and Was Shaped by the Web"
 date: "2021-07-26T03:18:00.000Z"
-tags: [The_Past_and_Futures_of_Digital_Cultures]
+tags: The_Past_and_Futures_of_Digital_Cultures
 resource_type: core
 authors: Alexander Halavais
 source_publish_date: 2017-01-05 00:00:00 AEST

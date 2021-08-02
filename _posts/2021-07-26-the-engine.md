@@ -1,7 +1,7 @@
 ---
 title: "The Engine"
 date: "2021-07-26T03:18:00.000Z"
-tags: [The_Past_and_Futures_of_Digital_Cultures]
+tags: The_Past_and_Futures_of_Digital_Cultures
 resource_type: further
 authors: Alexander Halavais
 source_publish_date: 2009-01-01 00:00:00 AEST

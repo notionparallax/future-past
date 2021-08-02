@@ -1,7 +1,7 @@
 ---
 title: "A Robot-Human Handshake in Space: Touch and Lively Alterity Relations in Social Robotics"
 date: "2021-07-26T03:18:00.000Z"
-tags: [The_Past_and_Futures_of_Digital_Cultures]
+tags: The_Past_and_Futures_of_Digital_Cultures
 resource_type: core
 authors: Chris Chesher & David Silvera-Tawil
 source_publish_date: 2020-00-00 00:00:00 AEST

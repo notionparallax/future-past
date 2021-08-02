@@ -1,7 +1,7 @@
 ---
 title: Ada Lovelace, the First Tech Visionary
 date: "2021-07-26T03:18:00.000Z"
-tags: [The_Past_and_Futures_of_Digital_Cultures]
+tags: The_Past_and_Futures_of_Digital_Cultures
 resource_type: core
 authors: Betsy Morais
 source_publish_date: 2013-10-15 00:00:00 AEST

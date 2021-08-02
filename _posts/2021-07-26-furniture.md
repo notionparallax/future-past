@@ -1,7 +1,7 @@
 ---
 title: "Smart street furniture in Australia: a public service or surveillance and advertising tool?"
 date: "2021-07-26T03:18:00.000Z"
-tags: [The_Past_and_Futures_of_Digital_Cultures]
+tags: The_Past_and_Futures_of_Digital_Cultures
 resource_type: core
 authors: Justine Humphry, Chris Chesher & Sophia Maalsen
 source_publish_date: 2021-06-23 06:01:00 AEST
