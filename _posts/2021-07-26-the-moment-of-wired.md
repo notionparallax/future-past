@@ -13,7 +13,7 @@ description:
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
+# ![alt text]({{ site.baseurl }}//future-past/assets/{{page.featuredimg}})
 featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
 ---
 
@@ -21,7 +21,7 @@ Streeter, T. (2011) The Moment of Wired, Chapter 4 in The Net Effect: Romanticis
 
 https://dokumen.pub/the-net-effect-romanticism-capitalism-and-the-internet-0814741169-9780814741160.html
 
-[pdf](/assets/pdf/The-net-effect-romanticism-capitalism-and-the-internet.pdf)
+[pdf](//future-past/assets/pdf/The-net-effect-romanticism-capitalism-and-the-internet.pdf)
 
 ---
 

@@ -11,7 +11,7 @@ week: 11
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789 twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}/assets/{{page.featuredimg}})
+# ![alt text]({{ site.baseurl }}//future-past/assets/{{page.featuredimg}})
 featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
 ---
 
@@ -73,6 +73,6 @@ Then I believe that a guaranteed income would actually result in more entreprene
 
 If people had an income floor, and if the incentives were such that on top of that they could do other things and still keep that extra money, without having it all taxed away, then I think a lot of people would pursue those opportunities.
 
-There’s a phenomenon called the <a href="http://www.asse.org/assets/1/7/fall07-feature02.pdf" >Peltzman Effect</a>, based on research from an economist at the University of Chicago who studied auto accidents. He found that when you introduce more safety features like seat belts into cars, the number of fatalities and injuries doesn’t drop. The reason is that people compensate for it. When you have a safety net in place, people will take more risks. That probably is true of the economic arena as well.
+There’s a phenomenon called the <a href="http://www.asse.org//future-past/assets/1/7/fall07-feature02.pdf" >Peltzman Effect</a>, based on research from an economist at the University of Chicago who studied auto accidents. He found that when you introduce more safety features like seat belts into cars, the number of fatalities and injuries doesn’t drop. The reason is that people compensate for it. When you have a safety net in place, people will take more risks. That probably is true of the economic arena as well.
 
 People say that having a guaranteed income will turn everyone into a slacker and destroy the economy. I think the opposite might be true, that it might push us toward more entrepreneurship and more risk-taking.
