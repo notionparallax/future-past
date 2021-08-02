@@ -102,7 +102,7 @@ The process begins with a system that automatically calls up pages on the web an
 
 <figure>
 
-![](/assets/21/search_engine.png)
+![](/assets/search_engine.png)
 
 <figcaption>
 Figure 1.1 Conceptual organization of the typical search engine 
