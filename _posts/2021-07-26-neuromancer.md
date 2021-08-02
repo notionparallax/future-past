@@ -1,5 +1,5 @@
 ---
-post title: "Gibson, W. (1984) [excerpt pp 62-83] Neuromancer."
+title: Neuromancer
 date: "2021-07-26T03:18:00.000Z"
 tags: The_Past_and_Futures_of_Digital_Cultures
 resource_type: core
