@@ -1,7 +1,15 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+        <title>🤖🤖🤖</title>
+    </head>
+
+    <body class="not-ready">
+        
 <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
 <link href="../css/interface-0.1.css" rel="stylesheet" type="text/css" />
 
@@ -26,9 +34,7 @@ layout: default
     <div class="toc">
         <ol>
             <!-- % assign articles = site.posts | sort: "week" %}  -->
-            {% for entry in site.posts %}
-            <li>{{ entry.week }}: <a href="#h_{{ entry.title | slugify}}">{{ entry.title }}</a>&mdash;{{ entry.authors }}</li>
-            {% endfor %}
+            
         </ol>
     </div>
 </section>
@@ -52,22 +58,7 @@ layout: default
     </article>
 
     
-    {% for entry in site.posts %}
-<article
-id="{{ entry.title | slugify}}"
-class="paper-story"
-data-article-title="{{ entry.title }}"
->
-
-<h1 class="article-title" id="h_{{ entry.title | slugify}}">{{ entry.title}}</h1>
-
-<div class="top-meta">{{entry.authors}}, {{entry.source_publish_date | date: "%Y"}}. for week {{ entry.week }}.</div>
-
-{{ entry.content | markdownify}}
-
-<p class="dinkus">〰️🤖〰️</p>
-</article>
-    {% endfor %}
+    
 
     <article id="colophon" class="colophon paper-story">
         <h1 class="article-title" data-article-title="Colophon">Colophon</h1>
@@ -78,3 +69,6 @@ data-article-title="{{ entry.title }}"
 <section class="inside-back-cover"></section>
 
 <section class="back-page"></section>
+
+    </body>
+</html>
