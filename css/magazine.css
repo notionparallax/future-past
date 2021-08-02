@@ -668,6 +668,10 @@ h5{} */
 .notes-and-refs {
     font-size: 70%;
 }
+.notes-and-refs li {
+    margin-left: 0;
+    text-indent: -2em;
+}
 
 .disclaimer-text {
     font-size: 80%;
