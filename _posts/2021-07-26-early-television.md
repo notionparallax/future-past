@@ -82,9 +82,11 @@ The popular media were paramount in domesticating the TV set, in alliance with i
 > The Townsman is a console of exceptionally dignified appearance . . . Designed with all the craftsmanship and finish that goes to the making of a piece of quality furniture, the Townsman will make an imposing and dignified addition to any room as well as a superlative example of television technique.<sup>2</sup>
 
 <figcaption>
+
 (Chambers 2011)
+
 </figcaption>
-<figure>
+</figure>
 
 Women’s lifestyle magazines of the 1950s conveyed TV as a technology of the hearth: as the focal point of family space (Spigel 1990). Affluent nuclear families were pictured gathered around the console, gazing into the glowing TV set reminiscent of the glowing hearth as an emblem of familial intimacy and harmony. Handbooks on interior décor of the late 1940s and 1950s advised readers how to position the appliance in the home and how to develop TV-viewing conventions. In the UK, the design of the TV set was highlighted in COID publications and in the displays of furnished rooms designed for the ‘Britain Can Make It’ exhibition (Jones 2003; Maguire and Woodham 1997). Thus, on both sides of the Atlantic, the home came to represent a stage on which good taste in design and wholesome family values were played out (Spigel 1992). In time, TV overtook the radio’s commanding position in the living room. It became the ‘must have’ appliance: the commodity that characterised the home. Ethnographies of families’ uses of TV confirm that families negotiated their use of this novel equipment in the home both by incorporating it into domestic life and making home adjustments to suit the new medium (see Morley 2002; Morse 1990; Silverstone 1994; Fachel Leal 1990). By the late 1950s, the act of owning a TV set signified ‘progress’ and ‘modernity’ (O’Sullivan 1991).
 
