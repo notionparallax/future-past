@@ -64,22 +64,22 @@ class MyHandler extends Paged.Handler {
     //     // });
     // }
 
-    // afterRendered(pages) {
-    //     console.log("in afterRendered"); //, pages);
-    //     // console.log("ready to bump the pack page");
-    //     // bumpBackPageContentToRealBackPage(pageFragment, 2);
-    //     // console.log("ready to balance");
-    //     // balanceText("h1, h2, h3, li.printed-link, .back-page-toc li");
-    //     // hidePageNumberOnBackPage();
-    //     console.log("all done!");
-    //     document.querySelector("body").classList = "";
-    //     // MathJax.typesetPromise();
-    //     // document
-    //     //     .querySelectorAll("article.pre-math")
-    //     //     .forEach((x) => x.classList.remove("pre-math"));
-    // }
+    afterRendered(pages) {
+        //     console.log("in afterRendered"); //, pages);
+        //     // console.log("ready to bump the pack page");
+        //     // bumpBackPageContentToRealBackPage(pageFragment, 2);
+        //     // console.log("ready to balance");
+        //     // balanceText("h1, h2, h3, li.printed-link, .back-page-toc li");
+        //     // hidePageNumberOnBackPage();
+        //     console.log("all done!");
+        document.querySelector("body").classList = "";
+        //     // MathJax.typesetPromise();
+        //     // document
+        //     //     .querySelectorAll("article.pre-math")
+        //     //     .forEach((x) => x.classList.remove("pre-math"));
+    }
 }
-// Paged.registerHandlers(MyHandler);
+Paged.registerHandlers(MyHandler);
 
 function hidePageNumberOnBackPage() {
     Array.from(document.querySelectorAll(".back-page"))
