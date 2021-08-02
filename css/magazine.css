@@ -9,7 +9,7 @@
     --wp-line-height: 1.5rem;
     line-height: var(--wp-line-height);
 
-    --wp-extend-into-margin-dist: 2mm;
+    --wp-extend-into-margin-dist: 5mm;
 
     --max-img-height: calc(var(--wp-line-height) * 14);
 
@@ -19,7 +19,7 @@
 @page {
     margin-top: 2.8rem; /* 2 * 1.4 */
     margin-bottom: 12.7mm;
-    size: A5;
+    size: A4;
 }
 
 /* prettier-ignore */
@@ -190,9 +190,11 @@ tt {
 pre {
     border-right: 2px dashed silver;
     font-size: 9px;
-    letter-spacing: -0.1em;
+    /* letter-spacing: -0.1em; */
     margin: 0;
     white-space: pre-wrap;
+    margin-right: -10mm;
+    margin-left: -10mm;
 }
 
 pre code {
@@ -385,7 +387,7 @@ section.front-page {
 .the-articles > article {
     column-count: 2;
     column-fill: auto;
-    column-gap: 5mm;
+    column-gap: 20mm;
     margin-bottom: calc(
         (var(--wp-line-height) * 2) - 3px
     ); /* This doesn't always do what it's supposed to, but it leaves the 
@@ -544,6 +546,7 @@ h6 {
     break-inside: avoid;
     font-family: "Raleway", sans-serif;
     page-break-inside: avoid;
+    margin-left: calc(var(--wp-extend-into-margin-dist) * -1);
 }
 h1 {
     font-size: 140%;
@@ -661,6 +664,9 @@ h5{} */
 .tail-meta .tags,
 .tail-meta .saved-date {
     display: block;
+}
+.notes-and-refs {
+    font-size: 70%;
 }
 
 .disclaimer-text {
