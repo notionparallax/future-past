@@ -5,9 +5,9 @@ module.exports = function (eleventyConfig) {
         return [...vals.sort((a, b) => Math.sign(a.data.week - b.data.week))];
     });
 
-    eleventyConfig.addFilter("dumdum", function () {
-        return "ballbag";
-    });
+    eleventyConfig.addPassthroughCopy("assets");
+    eleventyConfig.addPassthroughCopy("css");
+    eleventyConfig.addPassthroughCopy("js/paged");
 
     return {
         dir: {

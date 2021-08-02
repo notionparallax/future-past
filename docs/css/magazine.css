@@ -1,0 +1,1028 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Noto+Serif+JP:wght@200;300;400;500;600;700;800;900&family=Raleway+Dots&display=swap"); */
+/* For russian text */
+/* @import url("https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&display=swap"); */
+/* for koran text */
+/* @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap"); */
+
+:root {
+    font-size: 3.175mm;
+    --wp-line-height: 1.5rem;
+    line-height: var(--wp-line-height);
+
+    --wp-extend-into-margin-dist: 5mm;
+
+    --max-img-height: calc(var(--wp-line-height) * 14);
+
+    --baseline-nudge: translateY(0);
+}
+
+@page {
+    margin-top: 2.8rem; /* 2 * 1.4 */
+    margin-bottom: 12.7mm;
+    size: A4;
+}
+
+/* prettier-ignore */
+@page:left {
+    margin-left: 45mm;
+}
+/* prettier-ignore */
+@page:right {
+    margin-left: 45mm;
+}
+/* prettier-ignore */
+/* @page:blank{
+    @top-center {
+      border-bottom-color: hsla(0, 0%, 0%, 0.35);
+      border-bottom-style: dotted;
+      border-bottom-width: 2px;
+      content: "☙ Notes ❧";
+    }
+} */
+
+/* @page {
+    @footnote {
+        float: bottom;
+    }
+}
+.footnote {
+    position: footnotes;
+} */
+/* define the position of the footnote on the page (only bottom is possible for now) */
+
+.pagedjs_margin-bottom-right,
+.pagedjs_margin-bottom-left {
+    /* move page number to the top of the margin box */
+    align-items: flex-start !important;
+}
+
+/* font-family: 'Noto Serif JP', serif;
+font-family: 'Raleway Dots', cursive;
+font-family: 'Cinzel Decorative', cursive; */
+* {
+    margin-top: 0;
+}
+
+body {
+    background-color: aliceblue;
+    font-family: "Noto Serif JP", serif;
+    /* font-size: 9pt; */
+    font-weight: 300;
+    overflow-wrap: break-word;
+}
+
+.not-ready {
+    background-color: red !important;
+}
+
+.pagedjs_page {
+    background: white;
+}
+
+img {
+    font-size: 80%;
+    margin-bottom: -3px;
+    max-height: var(--max-img-height);
+    max-width: 40em;
+    object-fit: contain;
+    text-align: center;
+    /* make photos print more punchy in B&W? */
+    filter: saturate(0) contrast(1);
+}
+img,
+figcaption {
+    width: calc(100% + calc(var(--wp-extend-into-margin-dist) * 2));
+    margin-left: calc(var(--wp-extend-into-margin-dist) * -1);
+}
+.wp_apology {
+    font-size: 60%;
+    margin-bottom: 0;
+    text-align: center;
+}
+/* img:before {
+  content: "The image that should be here isn't downloading 😥";
+  padding-left: 0.7em;
+  display: block;
+  float: right;
+  width: 14em;
+} */
+
+p,
+div,
+p strong,
+p em {
+    line-height: calc(var(--wp-line-height) * 1);
+    margin-right: 0.1em; /* TODO: why is this set? */
+}
+p {
+    margin-bottom: calc(var(--wp-line-height) * 1);
+    orphans: 2;
+    widows: 2;
+    transform: var(--baseline-nudge);
+}
+
+a {
+    box-shadow: inset 0 -0.165em white, inset 0 -0.2em #cacaca;
+    color: black;
+    display: inline;
+    mix-blend-mode: multiply; /* So that the white part of the underline isn't distracting */
+    text-decoration: none;
+    text-shadow: 0px 0px 3px white;
+}
+hr {
+    --hr-height: 1px;
+    border: 0;
+    height: var(--hr-height);
+    background-image: linear-gradient(
+        to right,
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0, 0.75),
+        rgba(0, 0, 0, 0)
+    );
+    margin-bottom: calc(var(--wp-line-height) * 1 - var(--hr-height));
+}
+.star-break {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+p .star-break {
+    margin-top: calc(var(--wp-line-height) * 1);
+}
+mark {
+    background-image: repeating-linear-gradient(
+        45deg,
+        #fff,
+        #fff 5px,
+        silver 5px,
+        silver 6px
+    );
+    border-radius: 1em;
+    border: 1px dashed silver;
+}
+br:not([data-owner="balance-text"]) {
+    /* because of the way that border colapse works, 
+     * this prevents big blocks of whitespace caused 
+     * by multiple br tags  */
+    content: " ";
+    display: block;
+}
+/* a:after {
+    content: " (" attr(href) ")";
+    display: inline-block;
+    float: right;
+    font-size: 50%;
+    height: 2em;
+    width: 50%;
+} */
+
+ol,
+ul {
+    padding-left: 0.5em;
+    margin-bottom: calc(var(--wp-line-height) * 1);
+}
+
+pre,
+code,
+tt {
+    font-family: "fira code";
+}
+pre {
+    border-right: 2px dashed silver;
+    font-size: 9px;
+    /* letter-spacing: -0.1em; */
+    margin: 0;
+    white-space: pre-wrap;
+    margin-right: -10mm;
+    margin-left: -10mm;
+}
+
+pre code {
+    overflow-wrap: initial;
+}
+pre.one-line {
+    white-space: break-spaces;
+}
+pre.box-drawing {
+    line-height: calc(var(--wp-line-height) * 0.5);
+}
+pre.terminal-output {
+    white-space: break-spaces;
+}
+p code {
+    overflow-wrap: break-word;
+    font-family: monospace;
+}
+
+ol.printOnly {
+    border-top: 0.3mm solid silver;
+    font-size: 80%;
+    margin-left: -1em;
+    /* margin-right: -1em; */
+    margin-top: 1em;
+    padding: 0;
+}
+
+li.printed-link {
+    break-inside: avoid;
+    line-height: calc(var(--wp-line-height) * 0.6);
+    margin-bottom: calc(var(--wp-line-height) * 0.3);
+    margin-left: 1.2em;
+    /* max-height: calc(var(--wp-line-height) * 2); */
+    widows: 2;
+    orphans: 2;
+}
+img.pond-icon {
+    height: 1rem;
+    width: 1rem;
+    display: inline;
+    margin: initial;
+    transform: translateY(0.3rem) scale(1.6);
+}
+table blockquote {
+    margin: 0;
+    width: 100%;
+}
+blockquote {
+    border-left: 1px solid hsla(0, 0%, 0%, 0.2);
+    font-family: "Raleway", sans-serif;
+    font-size: 110%;
+    margin-bottom: calc(var(--wp-line-height) * 1);
+    margin-left: calc(var(--wp-extend-into-margin-dist) * -1);
+    margin-right: 0;
+    padding-left: 1mm;
+    /* transform: translateY(4px); */
+    width: calc(100% + calc(var(--wp-extend-into-margin-dist) * 2));
+    widows: 2;
+    orphans: 2;
+}
+blockquote p {
+    transform: none;
+}
+
+blockquote cite {
+    font-size: 80%;
+    font-style: initial;
+    font-weight: bold;
+}
+p.dinkus {
+    text-align: center;
+}
+/* TODO: [WP-47] check in on the paged issue */
+/* .chained-blockquote +  */
+.chained-blockquote:before {
+    border-left: 1px solid hsla(0, 0%, 0%, 0.2);
+    content: " ";
+    display: block;
+    height: calc(var(--wp-line-height) * 1.1);
+    left: -0.06em;
+    position: absolute;
+    top: calc(var(--wp-line-height) * -1.05);
+}
+ul li {
+    list-style-type: "— "; /* M dash as a bullet. ⁘ ⁕ ⁍ ⚊ are tempting too.*/
+    transform: var(--baseline-nudge);
+}
+
+/* Citations in academic papers */
+li[itemprop="citation"] p {
+    display: inline;
+    margin-right: 1em;
+}
+
+/* shortlink presentation */
+.slCode {
+    font-family: monospace;
+    font-size: 110%;
+    /* transform: scale(1.3); */
+    display: inline-block;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.origin {
+    font-size: 90%;
+}
+.envelope-icon {
+    /* transform: scale(1.7); */
+    display: inline-block;
+    margin-right: 0.3rem;
+    margin-left: 0.5rem;
+}
+
+figure {
+    break-inside: avoid;
+    margin: 0;
+    width: 100%;
+    position: relative;
+}
+figure.has-gif::after {
+    content: "🎦";
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+iframe {
+    display: block;
+    height: calc(var(--wp-line-height) * 6);
+    margin-bottom: calc(var(--wp-line-height) * 1);
+    width: 100%;
+}
+
+.edition {
+    display: block;
+    text-align: right;
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 80%;
+    break-after: always; /* blurb specific */
+}
+.edition span {
+    display: inline-block;
+    margin-left: 1em;
+}
+section.front-page {
+    /* position: relative; */
+}
+.front-page figure {
+    transform: translateY(65em);
+    /* position: absolute;
+  top: 66rem;
+  left: -47rem;
+  height: 9rem;
+  outline: 1px red; */
+}
+.front-page-image {
+    /* bottom: 0; */
+    /* change this to move the front page image up and down each month. */
+    bottom: calc(var(--wp-line-height) * 2);
+    transform: scale(1.3) translate(0px, -37px);
+    /*  */
+    filter: saturate(0) contrast(1);
+    height: 115mm;
+    max-height: unset;
+    max-width: unset;
+    mix-blend-mode: multiply;
+    position: absolute;
+    width: 6in;
+    margin-left: -18mm;
+}
+.front-page figcaption {
+    bottom: -3em;
+    font-size: 60%;
+    padding: 0 2.8rem;
+    position: absolute;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.qr {
+    float: right;
+    transform: translate(2rem, -1rem);
+    width: calc(var(--wp-line-height) * 4);
+}
+
+.the-articles > article {
+    column-count: 2;
+    column-fill: auto;
+    column-gap: 20mm;
+    margin-bottom: calc(
+        (var(--wp-line-height) * 2) - 3px
+    ); /* This doesn't always do what it's supposed to, but it leaves the 
+        following article internally consistent, so it's fine for now. 
+        It leaves the text in the columns matching across the columns, but it 
+        breaks the vertical rythm.  
+        It'll probably need some JS to snap to a gridline eventually, in the 
+        very distant future.*/
+    height: calc(
+        (
+            var(--pagedjs-pagebox-height) - var(--pagedjs-margin-top) -
+                var(--pagedjs-margin-bottom)
+        )
+    );
+    break-before: page;
+}
+article.pre-math {
+    height: 600px !important;
+}
+article.has-math {
+    border-bottom: 2px solid silver;
+    height: auto;
+}
+
+article:first-of-type {
+    break-before: always;
+}
+
+article.has-code,
+article.has-table,
+article.has-latex,
+article.wp1col {
+    column-count: 1;
+}
+.has-code ol.printOnly,
+.has-table ol.printOnly,
+.has-latex ol.printOnly,
+.has-latex ol.wp1col {
+    column-count: 2;
+}
+.has-code img,
+article.twitter\.com img {
+    margin: auto;
+    max-height: calc(var(--wp-line-height) * 10);
+    max-width: 25em;
+    width: 100%;
+}
+article.has-code figure,
+article.has-table figure,
+article.has-latex figure,
+article.wp1col figure {
+    width: 100%;
+    text-align: center;
+}
+.has-code img.pond-icon {
+    width: unset;
+}
+article.twitter\.com {
+    column-count: 1;
+}
+article.twitter\.com p {
+    font-size: 150%;
+    margin: 1em;
+}
+.toc {
+    /* column-count: 2; */
+    /* column-gap: 5em; */
+    /* column-rule: 0.3mm solid black; */
+    /* border-bottom: 0.3mm solid black; */
+    /* padding-bottom: 2em; */
+    break-before: right;
+    padding-top: 0rem;
+}
+.toc a {
+    text-decoration: none;
+    border: none;
+    font-weight: 800;
+}
+.toc .meta {
+    float: right;
+    font-size: 80%;
+    padding-left: 2em;
+}
+.toc small {
+    font-size: 70%;
+}
+.toc ol {
+    counter-reset: list-counter;
+    transform: var(--baseline-nudge);
+}
+.toc ol li img {
+    height: 1rem;
+    margin-left: 0;
+    position: initial;
+    vertical-align: text-top;
+    width: 1rem;
+}
+.toc a::before {
+    content: target-counter(attr(href), page);
+    position: absolute;
+    left: -1.4em;
+    display: block;
+    width: 3em;
+    text-align: right;
+    font-weight: 300;
+}
+/* .toc a::after {
+      content: " (p"target-counter(attr(href), page) ")";
+  } */
+
+.toc li {
+    break-inside: avoid;
+    display: block;
+    line-height: var(--wp-line-height);
+    list-style-type: none;
+    margin-left: 5mm;
+}
+.toc-excerpt {
+    display: block;
+    font-size: 70%;
+    line-height: 3.2mm;
+    margin-bottom: 0.66666666rem;
+    margin-top: 0.5em;
+    padding-left: 1rem;
+    padding-right: 3em;
+    text-indent: -0.3rem;
+}
+
+article.intro-from-me {
+    column-fill: balance;
+}
+
+span.time-to-read {
+    display: inline-block;
+}
+
+.name-title {
+    /* border-bottom: 0.5mm solid black; */
+    column-span: all;
+    font-family: "Raleway Dots", cursive;
+    font-size: 120px;
+    line-height: calc(var(--wp-line-height) * 8);
+    padding-bottom: calc(var(--wp-line-height) * 1);
+    padding-top: calc(var(--wp-line-height) * 1);
+}
+/* .owner {
+  display: none;
+} */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    break-inside: avoid;
+    font-family: "Raleway", sans-serif;
+    page-break-inside: avoid;
+    margin-left: calc(var(--wp-extend-into-margin-dist) * -1);
+}
+h1 {
+    font-size: 140%;
+    margin-left: calc(var(--wp-extend-into-margin-dist) * -1);
+    width: calc(100% + calc(var(--wp-extend-into-margin-dist) * 2));
+}
+
+h3 {
+    font-size: 115%;
+}
+h3,
+h4,
+h5,
+h6 {
+    line-height: var(--wp-line-height);
+    margin-bottom: calc(var(--wp-line-height) * 1);
+    transform: var(--baseline-nudge);
+}
+
+h1,
+h2,
+h3,
+h4 {
+    break-after: avoid;
+}
+
+h1 + p {
+    break-before: avoid;
+}
+.maybe-cyrillic h1.article-title,
+.maybe-turkish h1.article-title {
+    font-family: "Cormorant SC", "Cinzel Decorative", serif;
+}
+.maybe-hangul {
+    font-family: "Noto Sans KR", sans-serif;
+}
+.maybe-hebrew {
+    text-align: justify;
+}
+h1.article-title {
+    column-span: all;
+    display: block;
+    font-family: "Cinzel Decorative";
+    font-size: calc(var(--wp-line-height) * 2);
+    font-weight: 300;
+    line-height: calc(var(--wp-line-height) * 2);
+    margin-bottom: -0.3rem;
+    margin-top: 0.3rem;
+    page-break-inside: avoid;
+    string-set: title content(text);
+}
+h1.article-title.quite-long-article-title {
+    font-size: calc(var(--wp-line-height) * 1.4);
+}
+h1.article-title.very-long-article-title {
+    font-size: calc(var(--wp-line-height) * 1.25);
+}
+h2 {
+    font-size: 125%;
+    line-height: var(--wp-line-height);
+    margin-bottom: var(--wp-line-height);
+    transform: translateY(1px);
+}
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p {
+    orphans: 3;
+}
+/* h3{}
+h4{}
+h5{} */
+
+.break-before {
+    page-break-before: always;
+    break-before: column;
+    background: antiquewhite;
+}
+
+.excerpt {
+    border-bottom: 1px solid;
+    border-top: 1px solid;
+    font-size: 1.25em;
+    margin-bottom: 1em;
+    margin: 0.8em 0;
+    padding: 0.5em 0;
+}
+
+.top-meta {
+    column-span: all;
+    display: block;
+    font-size: 80%;
+    line-height: var(--wp-line-height);
+    margin-bottom: 14px;
+}
+.top-meta span {
+    display: inline-block;
+}
+.top-meta span.author-name {
+    display: inline;
+}
+
+/* .date {} */
+/* .author {} */
+/* .author {} */
+/* div.body {} */
+/* rename this */
+.tail-meta {
+    break-inside: avoid;
+    font-size: 80%;
+    line-height: var(--wp-line-height);
+    min-height: 5rem;
+    word-wrap: break-word;
+}
+.tail-meta .tags,
+.tail-meta .saved-date {
+    display: block;
+}
+.notes-and-refs {
+    font-size: 70%;
+}
+.notes-and-refs li {
+    margin-left: 0;
+    text-indent: -2em;
+}
+
+.disclaimer-text {
+    font-size: 80%;
+}
+
+/* .date {} */
+span.url {
+    display: inline-block;
+    width: 14rem;
+    vertical-align: top;
+}
+.has-code .url,
+.has-table .url {
+    width: calc(100% - 5em);
+}
+
+.ril_caption,
+figcaption {
+    display: block;
+    font-size: 70%;
+}
+figcaption.just-a-note-number {
+    background: white;
+    border-radius: 30%;
+    padding: 0 1mm;
+    position: absolute;
+    right: 1mm;
+    top: 1mm;
+    width: auto;
+}
+.linked-fig {
+    display: block;
+    min-height: calc(var(--wp-line-height) * 3);
+    position: relative;
+}
+
+table {
+    /* page-break-after: always; */
+    border-color: hsl(0deg 0% 0% / 50%);
+    border-style: dashed;
+    border-width: 1px 0;
+    column-span: all;
+    font-size: 80%;
+    margin-top: calc(var(--wp-line-height) * 1);
+    width: 100%;
+}
+
+th,
+td {
+    line-height: 1.2;
+    vertical-align: top;
+    text-align: left;
+    border: none;
+}
+td {
+    /* padding-bottom: 1mm; */
+}
+
+thead,
+tfoot {
+    break-inside: avoid;
+    display: table-header-group;
+}
+
+.shim {
+    height: 0.1px;
+    break-inside: avoid;
+}
+.shim-between-articles {
+    break-inside: avoid;
+    column-span: all;
+    height: 0.1px;
+}
+.RIL_IMG {
+    break-inside: avoid;
+}
+
+picture,
+video {
+    max-width: 100%;
+}
+
+article.colophon {
+    /* column-count: 1; */
+}
+
+/* Back Page */
+.the-real-back-page .pagedjs_margin-bottom {
+    display: none;
+}
+.back-page {
+    break-before: left;
+}
+.inside-back-cover {
+    /* there needs to be a blank page on the penultimate page */
+    break-before: right;
+}
+.back-page h1 {
+    margin-bottom: 0;
+    font-family: "Cinzel Decorative";
+}
+.back-page-toc {
+    column-count: 2;
+}
+.back-page-toc li {
+    margin-bottom: calc(var(--wp-line-height) * 1);
+    break-inside: avoid;
+}
+.back-page-toc .toc_meta_publisher_icon {
+    float: right;
+    height: calc(var(--wp-line-height) * 2);
+    mix-blend-mode: multiply;
+    width: calc(var(--wp-line-height) * 2);
+    overflow: hidden;
+}
+.back-page-toc span.title {
+    font-size: 110%;
+    display: block;
+}
+.end-vacat-page {
+    page-break-before: always;
+    height: var(--pagedjs-pagebox-height);
+}
+
+/* letter from the editor */
+.the-articles article.letter-from-the-editor {
+    column-count: 1;
+}
+.short-link-demo {
+    height: calc(var(--wp-line-height) * 2);
+    padding-left: 3rem;
+}
+.link-wiggle {
+    display: inline-block;
+    margin: 0 6px;
+    opacity: 0.8;
+    transform: scale(2) translateY(-1px);
+}
+/* .the-articles article.letter-from-the-editor .top-meta {} */
+/* .letter-from-the-editor p:first-of-type {
+  column-span: all;
+} */
+/* typography */
+sup,
+sub {
+    font-size: 65%;
+    position: relative;
+    vertical-align: baseline;
+    line-height: 0;
+}
+sup {
+    top: -0.8em;
+}
+sub {
+    top: 0.4em;
+}
+sup.printOnly {
+    font-size: max(7px, 55%);
+}
+span.wp-times {
+    margin: 0 -0.1rem 0 0;
+    font-size: 78%;
+    transform: translateY(-0.1rem);
+    display: inline-block;
+}
+span.wp-mdash {
+    margin: 0 0.06em;
+}
+span.wp-slash {
+    margin: 0 0.05em;
+}
+span.wp-frac,
+span.wp-not-frac {
+    /* these might be overkill */
+    break-inside: avoid;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+[lang="ru"] {
+    font-size: 105%;
+}
+
+/* medium author image */
+.medium\.com a img {
+    border-radius: 50%;
+    float: left;
+    margin-right: 2em;
+    width: 25%;
+}
+
+/* NYT author images */
+img[src*="multimedia/author"],
+img[src*="center/author"] {
+    height: calc(var(--wp-line-height) * 3);
+    float: right;
+}
+
+/* Ban list */
+.about_to_be_removed,
+a:empty,
+nav,
+audio,
+input[type="checkbox"],
+button,
+p:empty,
+#adspot-interstitial,
+.adWrapper,
+.bnnr-list, 
+.boring-hidden,
+.c-promo-box,
+.free-trial-prompt,
+.paywall-panel,
+.prompt-panel,
+.seo-footer,
+.view-sidebar,
+video,
+/* medium.com */
+.uxdesign\.cc svg:first-of-type,
+.medium\.com svg:first-of-type,
+img[src$="?q=20"],
+img[src*="medium.com/max/56"],
+img[src*="medium.com/max/60"],
+img[src*="medium.com/freeze/max/60"],
+img[src*="medium.com/max/948"],
+img[src*="medium.com/max/1052"],
+img[src*="medium.com/max/1400"],
+img[src*="medium.com/max/2000"],
+/* metmuseum */
+.metmuseum\.org .modal,
+/* wikipedia */
+img[src*="File:"],
+.en-wikipedia-org .mw-editsection,
+/* bbc */
+.bbc\.co\.uk svg:first-of-type,
+/* Gizmodo io9 etc. */
+.io9\.gizmodo\.com .swappable-mobile-ad-container,
+.io9\.gizmodo\.com .magnifier
+.io9\.gizmodo\.com .js_ad-mobile-dynamic,
+.io9\.gizmodo\.com svg:first-of-type,
+/* Lifehacker */
+.lifehacker\.com svg[aria-label="ZoomIn icon"],
+.lifehacker\.com aside,
+/* goodreads */
+.goodreads\.com .rating,
+/* GQ */
+img[src*="https://www.gq.com/verso/static/gq/assets/logo-header"],
+img[src*="https://www.gq.com/verso/static/gq/assets/logo-reverse"],
+/* Pintrest */
+img[src*="https://www.pinterest.com/pin/create/button"],
+/* abc stuff: */
+.abc-net-au aside,
+.abc-net-au .view-wysiwyg,
+.abcLink.search,
+.abc-net-au .view-sidebar,
+/*this needs the get the changes from my laptop*/
+.abc-net-au img[src="https://res.abc.net.au/bundles/2.2.0/images/icon-search-grey@1x.png"],
+.abc-net-au .printOnly
+.abc-net-au .view-infosourcebyline
+/* amazing ribs */
+img[src="https://amazingribs.com/files/fixed-images/1-gold_82pixels.png"],
+/* Wikipedia */
+.mw-editsection,
+/* new yorker */
+a[href*='itm_content=footer-recirc'],
+/* new statesman */
+.in-article-newsletter-form,
+/* technologyreview.com */
+.technologyreview\.com svg,
+/* afr */
+.afr\.com a.skip-link,
+.afr\.com #ink-login-config,
+/* the verge */
+.p-button-social.twitter,
+.p-button-social.facebook {
+    display: none;
+}
+
+.goodreads\.com img:first-of-type {
+    width: 1.5cm;
+    float: right;
+}
+
+.explained\.ai img[src*="svg"] {
+    display: inline-block;
+    width: 2em;
+}
+
+.wikitable {
+    column-span: all;
+    font-size: 60%;
+}
+
+.wikitable tr {
+    border-bottom: 0.25mm solid grey;
+}
+
+.wikitable .flagicon img {
+    width: 4em;
+}
+
+.smashingmagazine\.com .drop-caps {
+    width: 2em;
+    float: left;
+}
+
+.wikipedia-icon {
+    height: 1em;
+    margin-left: 0;
+    object-fit: contain;
+    width: 1em;
+}
+
+@media screen {
+    * {
+        outline: 1px dashed rgba(0, 0, 0, 0.1);
+    }
+    .pagedjs_page_content::before {
+        /* background-image: url(../scale_bar.png); */
+        background-size: cover;
+        content: " ";
+        height: inherit;
+        left: -20mm;
+        opacity: 0.05;
+        position: absolute;
+        width: 20mm;
+    }
+    .shim {
+        outline: 1px solid blue;
+    }
+    .shim-div {
+        background: rgba(0, 255, 255, 0.4);
+        outline: 2px solid orange;
+    }
+    .snapped {
+        background-color: hotpink;
+    }
+    .wp-converted-from-noscript {
+        background-color: cyan;
+    }
+
+    /* Badness - fix this manually in the html */
+    /* blockquote + span {
+    outline: 30px solid orange;
+    position: relative;
+  }
+  blockquote + span:before {
+    content: "BADNESS";
+    font-size: 400%;
+    color: lightseagreen;
+    position: absolute;
+    right: 100%;
+  } */
+}
