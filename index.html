@@ -25,9 +25,13 @@ layout: default
 <section class="toc-section">
     <div class="toc">
         <ol>
-            <!-- % assign articles = site.posts | sort: "week" %}  -->
-            {% for entry in site.posts %}
-            <li>{{ entry.week }}: <a href="#h_{{ entry.title | slugify}}">{{ entry.title }}</a>&mdash;{{ entry.authors }}</li>
+            {% assign articles = collections.The_Past_and_Futures_of_Digital_Cultures  | sortByWeek %} 
+            {% for entry in articles -%}
+            <li>
+                {{ entry.data.week }}: 
+                <a href="#h_{{ entry.data.title | slugify}}"
+                >{{ entry.data.title }}</a
+                >&mdash;{{ entry.data.authors }}</li>
             {% endfor %}
         </ol>
     </div>
@@ -52,18 +56,19 @@ layout: default
     </article>
 
     
-    {% for entry in site.posts %}
+    {% assign articles = collections.The_Past_and_Futures_of_Digital_Cultures  | sortByWeek %} 
+    {% for entry in articles -%}
 <article
-id="{{ entry.title | slugify}}"
+id="{{ entry.data.title | slugify}}"
 class="paper-story"
-data-article-title="{{ entry.title }}"
+data-article-title="{{ entry.data.title }}"
 >
 
-<h1 class="article-title" id="h_{{ entry.title | slugify}}">{{ entry.title}}</h1>
+<h1 class="article-title" id="h_{{ entry.data.title | slugify}}">{{ entry.data.title}}</h1>
 
-<div class="top-meta">{{entry.authors}}, {{entry.source_publish_date | date: "%Y"}}. for week {{ entry.week }}.</div>
+<div class="top-meta">{{entry.data.authors}}, {{entry.data.source_publish_date | date: "%Y"}}. for week {{ entry.data.week }}.</div>
 
-{{ entry.content | markdownify}}
+{{entry.templateContent}}
 
 <p class="dinkus">〰️🤖〰️</p>
 </article>
