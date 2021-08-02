@@ -23,15 +23,6 @@ Gibson, W. (1984) [excerpt pp 62-83] [_Neuromancer_](https://en.wikipedia.org/wi
 
 ---
 
-<style>
-/* <span class="para-block-break" /> */
-.para-block-break {
-    content: " ";
-    display: block;
-    height: 1em;
-}
-</style>
-
 Lifeless neon spelled out METRO HOLOGRAFIX in dusty capitals of glass tubing. Case picked at a shred of bacon that had lodged between his front teeth. He'd given up asking her where they were going and why; jabs in the ribs and the sign for silence were all he'd gotten in reply. She talked about the season's fashions, about sports, about a political scandal in California he'd never heard of.
 
 He looked around the deserted dead end street. A sheet of newsprint went cart wheeling past the intersection. Freak winds in the East side; something to do with convection, and an overlap in the domes. Case peered through the window at the dead sign. Her Sprawl wasn't his Sprawl? he decided. She'd led him through a dozen bars and clubs he'd never seen before, taking care of business, usually with no more than a nod. Maintaining connections.
@@ -132,7 +123,7 @@ Case looked at her. "I gotta lotta choice, huh?"
 
 She laughed. "You got it, cowboy."
 
-<span class="para-block-break" />
+&nbsp;
 
 "The matrix has its roots in primitive arcade games," said the voice-over, "in early graphics programs and military experimentation with cranial jacks." On the Sony, a two-dimensional space war faded behind a forest of mathematically generated ferns, demonstrating the spacial possibilities of logarithmic spirals- cold blue military footage burned through, lab animals wired into test systems, helmets feeding into fire con. trot circuits of tanks and war planes. "Cyberspace. A con sensual hallucination experienced daily by billions of legitimate operators, in every nation, by children being taught mathematical concepts .&nbsp;.&nbsp;. A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the non space of the mind, clusters and constellations of data. Like city lights, receding.&nbsp;.&nbsp;."
 
@@ -162,7 +153,7 @@ And flowed, flowered for him, fluid neon origami trick, the unfolding of his dis
 
 And somewhere he was laughing, in a white-painted loft, distant fingers caressing the deck, tears of release streaking his face.
 
-<span class="para-block-break" />
+&nbsp;
 
 Molly was gone when he took the trodes off, and the loft was dark. He checked the time. He'd been in cyberspace for five hours. He carried the Ono-Sendai to one of the new worktables and collapsed across the bedslab, pulling Molly's black silk sleeping bag over his head.
 
@@ -262,11 +253,11 @@ Cut to Dr. Virginia Rambali, Sociology, NYU, her name, faculty, and school pulsi
 
 "Given their penchant for these random acts of surreal violence," someone said, "it may be difficult for our viewers to understand why you continue to insist that this phenomenon isn't a form of terrorism."
 
-Dr. RamBali smiled. "There is always a point at which the terrorist ceases to manipulate the media gestalt. A point at which the violence may well escalate, but beyond which the terrorist has become symptomatic of the media gestalt itself. Terrorism as we ordinarily understand it is inately media-related. The Panther Moderns differ from other terrorists precisely in their degree of self-consciousness, in their awareness of the extent to which media divorce the act of terrorism from the original sociopolitical intent.&nbsp;.&nbsp;."
+Dr. Rambali smiled. "There is always a point at which the terrorist ceases to manipulate the media gestalt. A point at which the violence may well escalate, but beyond which the terrorist has become symptomatic of the media gestalt itself. Terrorism as we ordinarily understand it is inately media-related. The Panther Moderns differ from other terrorists precisely in their degree of self-consciousness, in their awareness of the extent to which media divorce the act of terrorism from the original sociopolitical intent.&nbsp;.&nbsp;."
 
 "Skip it," Case said.
 
-<span class="para-block-break" />
+&nbsp;
 
 Case met his first Modern two days after he'd screened the Hosaka's precis. The Moderns, he'd decided, were a contemporary version of the Big Scientists of his own late teens. There was a kind of ghostly teenage DNA at work in the Sprawl, something that carried the coded precepts of various short-lived sub cults and replicated them at odd intervals. The Panther Moderns were a soft head variant on the Scientists. If the technology had been available the Big Scientists would all have had sockets stuffed with microsofts. It was the style that mattered and the style was the same. The Moderns were mercenaries, practical jokers, nihilistic technofetishists.
 
@@ -286,7 +277,7 @@ The cutting of Sense/Net's ice took a total of nine days.
 
 "Yes," Armitage admitted, "but don't let it go to your head. Compared to what you'll eventually be up against, this is an arcade toy."
 
-<span class="para-block-break" />
+&nbsp;
 
 "Love you, Cat Mother," whispered the Panther Modern's link man. His voice was modulated static in Case's headset.
 
@@ -312,13 +303,13 @@ He flipped again. Molly was strolling past the enormous circular reception desk 
 
 At midnight, synch Ed with the chip behind Molly's eye, the link man in Jersey had given his command. "Mainline." Nine Moderns, scattered along two hundred miles of the Sprawl, had simultaneously dialed MAX EMERG from pay phones. Each Modern delivered a short set speech, hung up, and drifted out into the night, peeling off surgical gloves. Nine different police departments and public security agencies were absorbing the information that an obscure sub sect of militant Christian fundamentalists had just taken credit for having introduced clinical levels of an outlawed psychoactive agent known as Blue Nine into the ventilation system of the Sense/Net Pyramid. Blue Nine, known in California as Grievous Angel, had been shown to produce acute paranoia and homicidal psychosis in eighty-five percent of experimental subjects.
 
-<span class="para-block-break" />
+&nbsp;
 
 Case hit the switch as his program surged through the gates of the subsystem that controlled security for the Sense/Net research library. He found himself stepping into an elevator.
 
 "Excuse me, but are you an employee?" The guard raised his eyebrows. Molly popped her gum. "No," she said, driving the first two knuckles of her right hand into the man's solar plexus. As he doubled over, clawing for the beeper on his belt she slammed his head sideways, against the wall of the elevator. Chewing a little more rapidly now, she touched CLOSE DOOR and STOP on the illuminated panel. She took a black box from her coat pocket and inserted a lead in the keyhole of the lock that secured the panel's circuitry.
 
-<span class="para-block-break" />
+&nbsp;
 
 The Panther Moderns allowed four minutes for their first move to take effect, then injected a second carefully prepared dose of misinformation. This time, they shot it directly into the Sense/Net building's internal video system.
 
@@ -328,7 +319,7 @@ At 12:05:00, the mirror-sheathed nexus of the Sense/Net consortium held just ove
 
 Half a dozen NYPD Tactical hovercraft, responding to the possibility of Blue Nine in the building's ventilation system, were converging on the Sense/Net Pyramid. They were running full riot lights. A BAMA Rapid Deployment helicopter was lifting off from its pad on Riker's.
 
-<span class="para-block-break" />
+&nbsp;
 
 Case triggered his second program. A carefully engineered virus attacked the code fabric screening primary custodial commands for the sub-basement that housed the Sense/Net research materials. "Boston," Molly's voice came across the link, "I'm downstairs." Case switched and saw the blank wall of the elevator. She was unzipping the white pants. A bulky packet, exactly the shade of her pale ankle, was secured there with micro pore. She knelt and peeled the tape away. Streaks of burgundy flickered across the mimetic polycarbon as she unfolded the Modem suit. She removed the pink raincoat, threw it down beside the white pants, and began to pull the suit on over the white mesh top.
 
@@ -344,11 +335,11 @@ Out now. Reversing smoothly, the virus reknitting the fabric of the window.
 
 Done.
 
-<span class="para-block-break" />
+&nbsp;
 
 In the Sense/Net lobby, two Panther Moderns sat alertly behind a low rectangular planter, taping the riot with a video camera. They both wore chameleon suits. "Tacticals are spraying foam barricades now," one noted, speaking for the benefit of his throat mike. "Rapids are still trying to land their copter."
 
-<span class="para-block-break" />
+&nbsp;
 
 Case hit the Sims Tim switch. And flipped into the agony of broken bone. Molly was braced against the blank gray wall of a long corridor, her breath coming ragged and uneven. Case was back in the matrix instantly, a white-hot line of pain fading in his left thigh.
 
