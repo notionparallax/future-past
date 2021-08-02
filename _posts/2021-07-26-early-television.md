@@ -107,10 +107,15 @@ When TV broadcasting was resumed in 1946 after the Second World War in the UK, i
 Women’s magazines corresponded with TV programmes to cultivate domestic and consumer identities. As part of the early process of mediatising the home, TV formed the backcloth for a flood of popular discourses about the home, set within an explicit consumerist framework. In the UK, _House and Garden_ displayed pictures of opulent home interiors while _Woman_ magazine depicted the lifestyles of celebrities including Princess Margaret and famous actors (Irwin 2015: 166). Contrasting with women’s lifestyle magazines of the period, certain TV programmes such as the BBC’s _Wednesday Magazine_ (1958–1963) conceived a female audience as perceptive and discriminating with an interest in the public world of the arts. These programmes addressed their female audiences not only as housewives and consumers but also as citizens and voters (Leman 1987; Irwin 2015). Topics such as architecture were repositioned within a domestic framework to provide cultural signifiers of the ‘ideal’ house and home. For example, Irwin (2015) provides an analysis of a specific episode of the _Wednesday Magazine_ programme on the design and building of the new modernist house, Edritt House, in Mill Hill, North London. The programme moved between the domestic/private and cultural/public divide but, significantly, kept returning the topic to domesticity. Irwin explains that:
 
 <figure>
-> This is a transitional stage in the process of establishing a style of cultural television for a female audience. The house offers a look at a very aspirational and affluent lifestyle, especially so in a late 1950s Britain just emerging from a period of scarcity and austerity. 
+
+> This is a transitional stage in the process of establishing a style of cultural television for a female audience. The house offers a look at a very aspirational and affluent lifestyle, especially so in a late 1950s Britain just emerging from a period of scarcity and austerity.
+
 <figcaption>
-(Irwin 2015: 168) 
+
+(Irwin 2015: 168)
+
 </figcaption>
+
 </figure>
 
 A whole discourse was created through TV programming to frame domesticity, femininity and aspirational home living, as Irwin (2015) confirms. Today, programmes such as Grand Designs (Channel 4, 1999–) that feature unusual and often elaborate architectural projects and series about house-hunting, such as Location, Location, Location (Channel 4, 2000–), are described as ‘property porn’,3 providing a continuing focus on home to articulate consumerism and aspirational living in contemporary TV (also see Chapter 8).
