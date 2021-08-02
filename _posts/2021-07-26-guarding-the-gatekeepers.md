@@ -88,6 +88,6 @@ A growing number of voices worldwide are now saying that it is time for digital 
 -   <a href="#_ednref10" name="_edn10">[x]</a> For a broad sketch of what such public interest principles would look like, see Robert Picard and Vincent Pickard (2017), _Essential Principles for Contemporary Media and Communications Policymaking_, Oxford: University of Oxford
 -   <a href="#_ednref11" name="_edn11">[xi]</a> Nieva, Richard (2018). Jack Dorsey defends Twitter from charges of bias against conservatives. _C/Net_, 5 September. Retrieved from <a href="https://www.cnet.com/news/jack-dorsey-defends-twitter-against-conservative-bias-at-house-hearing/">https://www.cnet.com/news/jack-dorsey-defends-twitter-against-conservative-bias-at-house-hearing/</a> .
 
-## </div>
+</div>
 
 From Griffith Review Edition 64: The New Disruptors &copy; Copyright Griffith University & the author.
