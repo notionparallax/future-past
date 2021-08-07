@@ -38,16 +38,16 @@ Recall&mdash;or, if you are young enough, imagine&mdash;what it was like to go o
 
 In most offices, however, people who used email were still a small minority, and web browsing was unknown. Those who had experimented with email a bit had done so typically within specific, confined worlds like CompuServe, Prodigy, local bulletin boards, or one of several restricted academic or corporate networks. Going online at the time was thus technically possible with the computers that were on the desks of journalists, academics, and other professionals, but it was a little out of the ordinary. If you weren’t a computer professional, it was something you did out of curiosity; it took a substantial amount of time and was unlikely to yield much in the way of immediate practical value. For the vast majority, communications that mattered still happened exclusively on paper or on the phone. If you went online you knew that most people around you did not.
 
-Going online typically required purchasing and plugging in a roughly paperback-sized modem (computers did not routinely come equipped with them). The modem had a bank of mysterious flashing red lights, and using it involved installing, configuring, and then running a terminal program, typing commands, listening to the squealing modem, and typing in another cryptic series of commands and passwords. There was no pointing and clicking yet in the online world. Just getting it all going was at least a forty-five-minute time investment. And then figuring out what to do once signed on was a further challenge. Gateways between computer networks were still being constructed. As a result, to send, say, an email from the BITNET network&mdash;then common at less technical universities&mdash; across the still limited internet, the email addresses had to be sandwiched between quote marks and prefaced by IN%&mdash;thusly: IN%”T_STREETER@uvmvax.uvm.edu”&mdash;and this technical detail was not easy to find out.
+Going online typically required purchasing and plugging in a roughly paperback-sized modem (computers did not routinely come equipped with them). The modem had a bank of mysterious flashing red lights, and using it involved installing, configuring, and then running a terminal program, typing commands, listening to the squealing modem, and typing in another cryptic series of commands and passwords. There was no pointing and clicking yet in the online world. Just getting it all going was at least a forty-five-minute time investment. And then figuring out what to do once signed on was a further challenge. Gateways between computer networks were still being constructed. As a result, to send, say, an email from the BITNET network&mdash;then common at less technical universities&mdash; across the still limited internet, the email addresses had to be sandwiched between quote marks and prefaced by IN%&mdash;thusly: IN%"T_STREETER@uvmvax.uvm.edu"&mdash;and this technical detail was not easy to find out.
 
 But, once you mastered such arcana, you could then enter into a secret world.
 
 This was the context in which a message appeared on a number of discussion lists in February 1993, prefaced with the following:
 
 ```
-From:IN%”TNC@GITVM1.BITNET” “’TECHNOCULTURE’ discussion
-list” 22-FEB-1993 11:48:56.39
-    To:IN%”T_STREETER@uvmvax.uvm.edu” “Thomas Streeter”
+From:IN%"TNC@GITVM1.BITNET" "'TECHNOCULTURE' discussion
+list" 22-FEB-1993 11:48:56.39
+    To:IN%"T_STREETER@uvmvax.uvm.edu" "Thomas Streeter"
     Subject: John Perry Barlow meets the spooks
     Folks,
     This lovely missive came from SURFPUNKs (subscription info below). The
