@@ -11,7 +11,7 @@ week: 6
 # This is what twitter will pick up if someone tweets the link to this page
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789 twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}//future-past/assets/{{page.featuredimg}})
+
 featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.jpg
 ---
 

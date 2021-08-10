@@ -13,7 +13,7 @@ description:
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}//future-past/assets/{{page.featuredimg}})
+
 featuredimg: https://www.griffithreview.com/wp-content/themes/griffithreview/dist/images/logo-text.svg
 ---
 
@@ -63,7 +63,7 @@ If the telegraph apparatus did not physically have a presence in the punched car
 
 <figure>
 
-![(a) H. L. Marvin operating a Bell Labs specialized calculator using a modified Teletype, 1940. (b) Control panel for a Bell Labs computer used for fire control, circa 1950.](//future-past/assets/bell_labs.jpg)
+![(a) H. L. Marvin operating a Bell Labs specialized calculator using a modified Teletype, 1940. (b) Control panel for a Bell Labs computer used for fire control, circa 1950.]({{ baseURL }}/assets/bell_labs.jpg)
 
 <figcaption>
 Figure 1.1 Computing at Bell Laboratories designed by George Stibitz and using modified telephone switching equipment. (a) H. L. Marvin operating a Bell Labs specialized calculator using a modified Teletype, 1940. (b) Control panel for a Bell Labs computer used for fire control, circa 1950. (Source: Lucent/ Alcatel Bell Laboratories)
@@ -78,9 +78,9 @@ In the worlds of U.S. commerce and government, these systems reached a pinnacle 
 
 <figure>
 
-![The Teletype ASR-33. The Teletype had only uppercase letters, numbers, and a few special characters.](//future-past/assets/teletype.jpg)
+![The Teletype ASR-33. The Teletype had only uppercase letters, numbers, and a few special characters.]({{ baseURL }}/assets/teletype.jpg)
 
-![Teletypes were used as the main input-output device for the early personal computers, until inexpensive video terminals became available. This piece of Teletype tape contains an interpreter for the BASIC programming language, Microsoft's first product](//future-past/assets/punch_roll.jpg)
+![Teletypes were used as the main input-output device for the early personal computers, until inexpensive video terminals became available. This piece of Teletype tape contains an interpreter for the BASIC programming language, Microsoft's first product]({{ baseURL }}/assets/punch_roll.jpg)
 
 <figcaption>
 Figure 1.2 (left) The Teletype ASR-33. The Teletype had only uppercase letters, numbers, and a few special characters. In 1972 Ray Tomlinson, an engineer at Bolt Beranek and Newman in Cambridge, Massachusetts, chose the @ sign (shift-p) to separate the recipient of an e-mail message from the host machine to which that message was addressed; it has since become the symbol of the Internet age. (Source: Digital Equipment Corporation, now Hewlett-Packard) (above) Teletypes were used as the main input-output device for the early personal computers, until inexpensive video terminals became available. This piece of Teletype tape contains an interpreter for the BASIC programming language, Microsoft's first product. (Credit: Smithsonian Institution)

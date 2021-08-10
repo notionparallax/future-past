@@ -13,7 +13,7 @@ description:
 # 110 marker 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
 twitter-body:
 # Twitter and facebook will pick up this image. you can also use it in a post with:
-# ![alt text]({{ site.baseurl }}//future-past/assets/{{page.featuredimg}})
+
 featuredimg: https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg
 ---
 
