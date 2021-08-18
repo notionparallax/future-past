@@ -53,7 +53,7 @@ Bell's successful defense of his patent, and the subsequent establishment of a w
 
 Once again: the modem computer is a convergence of separate streams of information handling, each with its own rich tradition of technological history. Each of the streams described thus far played a major role. One could add other antecedents such as the development of radio, motion pictures, and photography. The line of mechanical calculators seems to be at the forefront, yet it was the Hollerith system of punched cards, centered around a machine called the tabulator, that had a greater influence. Besides the tabulator, two other critical devices were employed: a key punch, by which a human operator keyed in data, and a sorter, which sorted cards based on the presence or absence of a hole in a desired column. In the early decades of the twentieth century, other devices were added to a typical installation, but these were the main ones.
 
-## From Tabulator to Computer, 1890-1945
+## From Tabulator to Computer, 1890&ndash;1945
 
 The tabulator kept a record of how many cards had a hole punched in each of its columns. The early tabulators recorded the numbers on a dial that resembled a clock face; later a more familiar counter was used. Although it is hard to imagine that such a basic function could be so important, it was not until the 1920s that other arithmetic functions were provided. What made the tabulator so important was the flexible way it could be used, based on the information punched into different columns, and the way its use could be combined with the other devices, especially the sorter, to perform what we would now call sophisticated data processing. Information, once it was punched onto a card, could be used and reused in many ways. That roomful of equipment was what the early electronic computers replicated; its "program" was carried out by human beings carrying decks of cards from one machine to another and changing the settings on the various machines as the cards were run through them.
 
@@ -63,7 +63,7 @@ If the telegraph apparatus did not physically have a presence in the punched car
 
 <figure>
 
-![(a) H. L. Marvin operating a Bell Labs specialized calculator using a modified Teletype, 1940. (b) Control panel for a Bell Labs computer used for fire control, circa 1950.]({{ baseURL }}/assets/bell_labs.jpg)
+![(a) H. L. Marvin operating a Bell Labs specialized calculator using a modified Teletype, 1940. (b) Control panel for a Bell Labs computer used for fire control, circa 1950.]({{ site.baseURL }}/assets/bell_labs.jpg)
 
 <figcaption>
 Figure 1.1 Computing at Bell Laboratories designed by George Stibitz and using modified telephone switching equipment. (a) H. L. Marvin operating a Bell Labs specialized calculator using a modified Teletype, 1940. (b) Control panel for a Bell Labs computer used for fire control, circa 1950. (Source: Lucent/ Alcatel Bell Laboratories)
@@ -78,9 +78,9 @@ In the worlds of U.S. commerce and government, these systems reached a pinnacle 
 
 <figure>
 
-![The Teletype ASR-33. The Teletype had only uppercase letters, numbers, and a few special characters.]({{ baseURL }}/assets/teletype.jpg)
+![The Teletype ASR-33. The Teletype had only uppercase letters, numbers, and a few special characters.]({{ site.baseURL }}/assets/teletype.jpg)
 
-![Teletypes were used as the main input-output device for the early personal computers, until inexpensive video terminals became available. This piece of Teletype tape contains an interpreter for the BASIC programming language, Microsoft's first product]({{ baseURL }}/assets/punch_roll.jpg)
+![Teletypes were used as the main input-output device for the early personal computers, until inexpensive video terminals became available. This piece of Teletype tape contains an interpreter for the BASIC programming language, Microsoft's first product]({{ site.baseURL }}/assets/punch_roll.jpg)
 
 <figcaption>
 Figure 1.2 (left) The Teletype ASR-33. The Teletype had only uppercase letters, numbers, and a few special characters. In 1972 Ray Tomlinson, an engineer at Bolt Beranek and Newman in Cambridge, Massachusetts, chose the @ sign (shift-p) to separate the recipient of an e-mail message from the host machine to which that message was addressed; it has since become the symbol of the Internet age. (Source: Digital Equipment Corporation, now Hewlett-Packard) (above) Teletypes were used as the main input-output device for the early personal computers, until inexpensive video terminals became available. This piece of Teletype tape contains an interpreter for the BASIC programming language, Microsoft's first product. (Credit: Smithsonian Institution)

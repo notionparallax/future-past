@@ -17,7 +17,7 @@ twitter-body:
 featuredimg: https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg
 ---
 
-Gibson, W. (1984) [excerpt pp 62-83] [_Neuromancer_](https://en.wikipedia.org/wiki/Neuromancer).
+Gibson, W. (1984) [excerpt pp 62&ndash;83] [_Neuromancer_](https://en.wikipedia.org/wiki/Neuromancer).
 
 [Full text of neuromancer](https://gist.github.com/m-242/ecb3e130b76a3b12f7ef41b04f486405) as a [Gist](https://gist.github.com/discover)
 

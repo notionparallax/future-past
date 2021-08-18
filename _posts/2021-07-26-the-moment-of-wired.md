@@ -21,7 +21,7 @@ Streeter, T. (2011) The Moment of Wired, Chapter 4 in The Net Effect: Romanticis
 
 https://dokumen.pub/the-net-effect-romanticism-capitalism-and-the-internet-0814741169-9780814741160.html
 
-[pdf]({{ baseURL }}/assets/pdf/The-net-effect-romanticism-capitalism-and-the-internet.pdf)
+[pdf]({{ site.baseURL }}/assets/pdf/The-net-effect-romanticism-capitalism-and-the-internet.pdf)
 
 ---
 

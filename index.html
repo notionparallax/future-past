@@ -1,18 +1,21 @@
 ---
 layout: default
 ---
-
+<!-- # baseURL: /future-past  -->
 <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
-<link href="/future-past/css/interface-0.1.css" rel="stylesheet" type="text/css" />
+<link href="{{ site.baseURL }}/css/interface-0.1.css" rel="stylesheet" type="text/css" />
 
-<script src="/future-past/js/paged/functions.js"></script>
-<script src="/future-past/js/paged/fnUtilities.js"></script>
-<script src="/future-past/js/paged/fnLinks.js"></script>
-<script src="/future-past/js/paged/control.js"></script>
-<link href="/future-past/css/magazine.css" rel="stylesheet" type="text/css" />
+<script src="{{ site.baseURL }}/js/paged/functions.js"></script>
+<script src="{{ site.baseURL }}js/paged/fnUtilities.js"></script>
+<script src="{{ site.baseURL }}js/paged/fnLinks.js"></script>
+<script src="{{ site.baseURL }}js/paged/control.js"></script>
+<link href="{{ site.baseURL }}css/magazine.css" rel="stylesheet" type="text/css" />
+
+<div class="meta-no-print">Site Data: {{site | json}}</div>
 
 <section class="front-page">
     <h1>The Past and Futures of Digital Cultures</h1>
+    <p>This unit introduces Digital Cultures, the critical interdisciplinary field of research into the cultural and social dimensions of digital technologies. It explores the histories, imaginaries, ideas, platforms and thinkers that inform the study of digital cultures. Students will examine tools and theories that explain the interrelated processes of digital media and communications development and social change. This unit will explore what it means to be a digital cultures researcher and practitioner, offering students foundational knowledge and skills for the major as well as investigating the latest technologies and trends.</p>
     <!-- <figure>
         <img
             src="https://www.pngfind.com/pngs/m/271-2718608_smear-smudge-doodle-scribble-squiggle-blue-cyan-water.png"
@@ -28,7 +31,7 @@ layout: default
             {% assign articles = collections.The_Past_and_Futures_of_Digital_Cultures  | sortByWeek %} 
             {% for entry in articles -%}
             <li>
-                {{ entry.data.week }}: 
+                Week {{ entry.data.week }}: 
                 <a href="#h_{{ entry.data.title | slugify}}"
                 >{{ entry.data.title }}</a
                 >&mdash;{{ entry.data.authors }}</li>
