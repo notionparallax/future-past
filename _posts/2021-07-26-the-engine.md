@@ -35,7 +35,12 @@ And these sites are popular. As of 2012, more than half of Americans said that t
 
 One reason for this difficulty is that people often encounter the large search engines through the façade of another site – that is, without intending to. So a search on a particular website may rely on Google to do the actual searching, or it may draw on an internal search engine. Both of these are a form of search, but may be measured differently by different research firms (Hargittai 2004). Many portal sites are also search engines, so just measuring the visitors, for example, to Yahoo! properties does not provide a useful metric of actual searches. (And even if you did, those Yahoo! searches could just be repackaged Google searches: Sullivan 2015.) Facebook is not usually considered a “search engine” even though it handles a surprisingly large number of search queries on a daily basis. And the traditional search box accessed via the web is itself giving way with the shift to mobile technology as the primary form of access (Schwartz 2016); by 2015, more than half of the queries Google received were from mobile devices (Sterling 2015). As hard as measuring the use of public search engines is, it is nearly impossible to measure search more generally: people searching their company intranet or their hard drive, for example.
 
-<figure>
+<figure class="search-engine-use-table-figure">
+<style>
+.search-engine-use-table-figure table {
+    column-span: initial;
+}
+</style>
 <figcaption>
 Table 1.1 Global search engine use as of September 2016
 
