@@ -19,7 +19,7 @@
 @page {
     margin-top: 2.8rem; /* 2 * 1.4 */
     margin-bottom: 12.7mm;
-    size: A4;
+    size: 210mm 297mm; /* A4; */
 }
 
 /* prettier-ignore */
@@ -672,6 +672,10 @@ h5{} */
     margin-left: 0;
     text-indent: -2em;
 }
+.csl-entry {
+    margin-left: 2em;
+    text-indent: -2em;
+}
 
 .disclaimer-text {
     font-size: 80%;
@@ -985,6 +989,10 @@ a[href*='itm_content=footer-recirc'],
     width: 1em;
 }
 
+.meta-no-print {
+    display: none;
+}
+
 @media screen {
     * {
         outline: 1px dashed rgba(0, 0, 0, 0.1);
@@ -1011,6 +1019,12 @@ a[href*='itm_content=footer-recirc'],
     }
     .wp-converted-from-noscript {
         background-color: cyan;
+    }
+    .meta-no-print {
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
     }
 
     /* Badness - fix this manually in the html */

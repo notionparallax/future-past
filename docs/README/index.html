@@ -3,10 +3,12 @@
 <p>It's some markdown files in <code>_posts</code> that are merged into one big file through <code>index.hmtl</code> with a liquid loop.</p>
 <p>It's paginated with paged.js</p>
 <h2>To build</h2>
+<!--
+1. clone the repo
+1. run `bundle install`
+1. run `jekyll serve --incremental`
+1. it's probably being served on `http://localhost:4000/` -->
 <ol>
-<li>clone the repo</li>
-<li>run <code>bundle install</code></li>
-<li>run <code>jekyll serve --incremental</code></li>
-<li>it's probably being served on <code>http://localhost:4000/</code></li>
+<li><code>npx npx eleventy --input=. --output=docs --serve</code></li>
 </ol>
 <p>That should be it, but I've probably forgotten something</p>
