@@ -1,10 +1,10 @@
 ---
 title: "A Robot-Human Handshake in Space: Touch and Lively Alterity Relations in Social Robotics"
-date: "2021&ndash;!27&ndash;!26T03:18:00.000Z"
+date: "2021-07-26T03:18:00.000Z"
 tags: The_Past_and_Futures_of_Digital_Cultures
 resource_type: core
 authors: Chris Chesher & David Silvera-Tawil
-source_publish_date: 2020&ndash;!20&ndash;!20 00:00:00 AEST
+source_publish_date: 2020-00-00 00:00:00 AEST
 week: 11
 
 # this goes on the index page, and into facebook shares
@@ -19,7 +19,7 @@ featuredimg: http://www.uvm.edu/~tstreete/Net_Effect/page2/files/pasted-graphic.
 
 Chesher, C., & Silvera-Tawil, D. (2021). A Robot-Human Handshake in Space: Touch and Lively Alterity Relations in Social Robotics. Culturally Sustainable Social Robotics: Proceedings of Robophilosophy 2020, 335, 86.
 
-Chris CHESHER1 and David SILVERA-TAWIL a Department of Media and Communications, The University of Sydney, Australia bCSIRO Australian e-Health Research Centre, University of New South Wales, Australia
+Department of Media and Communications, The University of Sydney, Australia bCSIRO Australian e-Health Research Centre, University of New South Wales, Australia
 
 Abstract. In February 2012, Robonaut R2 and Dan Burbank performed the first human-humanoid handshake in space. The handshake welcomed R2 as a crewmember a social agent rather than a thing. In Heidegger's terms, it is experienced not only as present-at-hand or ready-to-hand, but also as a quasi-Dasein. Extending Ihde's concept of alterity relations we argue it is experienced in lively alterity relations, given respect as an other capable of initiating and reacting to contact. R2 is capable not only of executing programs, but of also playing its part in choreographed and improvised collaborative performances within a shared social milieu.
 
@@ -28,15 +28,18 @@ Keywords. Social robotics, human-machine relations, Heidegger, liveness-to-hand,
 phenomenology, post-phenomenology, touch
 
 1. Introduction
-   On February 15, 2012 the humanoid 'Robonaut R2' [1] floats inside the International Space Station, ready to initiate what Commander Dan Burbank claims is "the first human-humanoid handshake in space" [2]. R2 extends its arm towards Burbank who reaches down to grab the outstretched hand. The robot's fingers wrap around the commander's fingers and they shake hands, pausing to have this historic event captured on camera. Ground control cheers. Robonaut's offered the handshake as a kind of gift that established an obligation to reciprocate that Burbank respected [3]. Like other handshakes, this was what Goffman [4] refers to as an 'access ceremony', welcoming the robot to the space station as a fellow crewmember. It marked mutual recognition, establishing solidarity, and synchronising their shared activities from that point forward [5]. It asserted a certain manliness: Burbank reported that it was a firm handshake [6, 7]. This handshake was a socially choreographed action [8] in which the robot took the lead. It seemed to have some of the affectivity of social touch [9]. The contact between human and non-human hands embodied and symbolised the emergence of technologies that initiate active touch [10], going beyond our assumption that technologies are most often tools that are controlled or examined by the hands of users.
-   In this paper, we consider this encounter between Commander Burbank and R2 as an event that raises philosophical questions about the relationship between people and robots in a shared lifeworld. In particular, how is it possible for these two actants to successfully execute the ritual of the handshake? This suggests that both are capable of active social touch the combination of movement and tactility that helps position each as a legitimate social actor. Does this mean that the robot has (quasi) social agency? Does active social touch from a robot require some form of machine intelligence? What kinds of human-technology relations are established in this interaction? How does the performance of everyday rituals promote the cultural sustainability of social robots in space and back on earth?
+
+On February 15, 2012 the humanoid 'Robonaut R2' [1] floats inside the International Space Station, ready to initiate what Commander Dan Burbank claims is "the first human-humanoid handshake in space" [2]. R2 extends its arm towards Burbank who reaches down to grab the outstretched hand. The robot's fingers wrap around the commander's fingers and they shake hands, pausing to have this historic event captured on camera. Ground control cheers. Robonaut's offered the handshake as a kind of gift that established an obligation to reciprocate that Burbank respected [3]. Like other handshakes, this was what Goffman [4] refers to as an 'access ceremony', welcoming the robot to the space station as a fellow crewmember. It marked mutual recognition, establishing solidarity, and synchronising their shared activities from that point forward [5]. It asserted a certain manliness: Burbank reported that it was a firm handshake [6, 7]. This handshake was a socially choreographed action [8] in which the robot took the lead. It seemed to have some of the affectivity of social touch [9]. The contact between human and non-human hands embodied and symbolised the emergence of technologies that initiate active touch [10], going beyond our assumption that technologies are most often tools that are controlled or examined by the hands of users.
+
+In this paper, we consider this encounter between Commander Burbank and R2 as an event that raises philosophical questions about the relationship between people and robots in a shared lifeworld. In particular, how is it possible for these two actants to successfully execute the ritual of the handshake? This suggests that both are capable of active social touch the combination of movement and tactility that helps position each as a legitimate social actor. Does this mean that the robot has (quasi) social agency? Does active social touch from a robot require some form of machine intelligence? What kinds of human-technology relations are established in this interaction? How does the performance of everyday rituals promote the cultural sustainability of social robots in space and back on earth?
 
 This paper sits at the intersections between cultural studies [11], media studies [12], science and technology studies [13], and philosophy of technology [14, 15]. The phenomenon of social touch could also be examined as a psychological question [9], and is also the concern of some engineers seeking to model the mediation of affective touch [16, 17]. If social touch is always marked by the gender, class, age and ethnic identity [6], we might ask how Robonaut should be identified. Through an analysis of robotic touch, this paper critically addresses key assumptions underpinning social robotics that a robot can perform as an embodied agent in both physical and social domains. After this introduction, the article is divided into two sections, focusing on each of the participants in the handshake-human and robot.
 
 We construct the narrative of this event through NASA's press releases, biographies, records, videos and still images of missions [7, 18]. In these texts, and also in popular science [19], narratives about robots ask us to imagine future possibilities as much as they report on actual developments. We perform an analysis of these texts in order to develop a reading of the human-technology relations in embodied (quasi) social situations, looking in particular at the role of touch. We situate the handshake in unremitting debates about artificial intelligence and robotics, with controversies about the formation of 'intelligent' behaviour, parasocial interaction and alterity. We argue that both choreography and programming are necessary, but not sufficient to understanding the situated meanings of contact between people and robots.
 
 2. Human Touch: Commander Burbank
-   NASA's biography of Daniel C. Burbank reveals that he was born on July 27, 1961 in Manchester, Connecticut [20]. After a distinguished career in the Coast Guard, he was selected as an astronaut in April 1996. Burbank was at ease with technology: on two missions to the International Space Station (ISS), he was a mission specialist who helped deliver over three tons of supplies and install key equipment such as solar arrays to prepare the ISS for continuous inhabitation. From 21 November 2011, he became commander of the 30th long-duration mission on the ISS, until he returned to earth on the Soyuz spacecraft on 27 April 2012.
+
+NASA's biography of Daniel C. Burbank reveals that he was born on July 27, 1961 in Manchester, Connecticut [20]. After a distinguished career in the Coast Guard, he was selected as an astronaut in April 1996. Burbank was at ease with technology: on two missions to the International Space Station (ISS), he was a mission specialist who helped deliver over three tons of supplies and install key equipment such as solar arrays to prepare the ISS for continuous inhabitation. From 21 November 2011, he became commander of the 30th long-duration mission on the ISS, until he returned to earth on the Soyuz spacecraft on 27 April 2012.
 
 As with all humans, Burbank's skin is the largest of all his organs. It gives him the sense of touch, which is the first sense to develop in utero and (arguably) the most important of all human senses [9]. His body is literally covered by a huge network of touch receptors and processing centres the somatosensory system that allow him to perceive temperatu changes, pain and irritation, kinaesthesia, touch and vibration; his muscles, joints and organs are all connected to nerves that constantly send information to his brain. The sense of touch is central for human survival and social interaction. It is believed that people need a daily dose of touch to improve their emotional and physical wellbeing [9]. From the work of Robles-De-La-Torre [21] we know about Ian Waterman, an individual who suffered permanent loss of most of his sense of touch. His tactile loss caused dramatic changes in his life. He could not walk, stand upright or sit up, could not control the movement of his limbs or tell their position. His hands, arms and fingers moved uncontrollably without him even noticing. He would not be able to feel the bed when sleeping or the water when swimming. It took him months, even years to learn to perform some of his basic daily activities by using his eyes to guide every movement.
 
@@ -90,7 +93,7 @@ Lively alterity relations are established in many other contexts of human-techno
 
 <div class="notes-and-refs">
 
--   [1] Diftler MA, Ahlstrom TD, Ambrose RO, Radford NA, Joyce CA, De La Pena N, et al. Robonaut 2 - Initial activities on-board the ISS. IEEE Aerospace Conference Proceedings. 2012;1&ndash;12.
+-   [1] Diftler MA, Ahlstrom TD, Ambrose RO, Radford NA, Joyce CA, De La Pena N, et al. Robonaut 2 - Initial activities on-board the ISS. IEEE Aerospace Conference Proceedings. 2012;1-12.
 -   [2] VideoFromSpace. First robot to astronaut handshake on-orbit. YouTube; 2012.
 -   [3] Mauss M. The gift. Forms and functions of exchange in archaic societies. London: Cohen and West; 1966.
 -   [4] Goffman E. Relations in public: Microstudies of the public order. New York: Basic Books; 1971.
@@ -101,31 +104,31 @@ Lively alterity relations are established in many other contexts of human-techno
 -   [15] Ihde D. Technology and the lifeworld. Bloomington: Indiana University Press; 1996.
 -   [16] Silvera-Tawil D, Rye D, Velonaki M. Artificial skin and tactile sensing for socially interactive robots: A
 -   [20] NASA. Astronaut biography: Daniel C. Burbank. [Internet]. Houston, TX: NASA; 2018, Available from: http://www.nasa.gov/astronauts/biographies/daniel-c-burbank.
--   [5] Schiffrin D. Handwork as ceremony: The case of the handshake. Nonverbal Communication, Interaction, and Gesture: Selections from SEMIOTICA. 2010;237&ndash;!20. Macmillan UK; 2013.
+-   [5] Schiffrin D. Handwork as ceremony: The case of the handshake. Nonverbal Communication, Interaction, and Gesture: Selections from SEMIOTICA. 2010;237-50. Macmillan UK; 2013.
 -   [7] Wright J. Historic handshake for Robonaut 2 [Internet]. National Aeronautics and Space Administration. 2017. Available from: https://www.nasa.gov/mission_pages/station/main/r2_handshake.html. York: Routledge; 2019.
 -   [9] Field T. Touch. Second Edi. Cambridge MA; 2014.
--   [10] Scott M. Tactual perception. Australasian Journal of Philosophy. 2001;79(2):149&ndash;!20.
--   editors. Handbook of New Media: Social Shaping and Consequences of ICTs. Student Ed. London: Sage; 2006. p. 141&ndash;!262.
--   [13] Castañeda C, Suchman L. Robot visions. Social Studies of Science. 2014;44(3):315&ndash;!21.
+-   [10] Scott M. Tactual perception. Australasian Journal of Philosophy. 2001;79(2):149-60.
+-   editors. Handbook of New Media: Social Shaping and Consequences of ICTs. Student Ed. London: Sage; 2006. p. 141-162.
+-   [13] Castañeda C, Suchman L. Robot visions. Social Studies of Science. 2014;44(3):315-41.
 -   [14] Heidegger M, Macquarrie J, Robinson E. Being and time. Oxford: Basil Blackwell; 1962.
--   review. Robotics and Autonomous Systems. 2015;63(P3):230&ndash;!23.
--   [17] Yohanan S, MacLean KE. The role of affective touch in human-robot interaction: Human intent and expectations in touching the Haptic Creature. International Journal of Social Robotics. 2012;4(2):163&ndash;!20.
+-   review. Robotics and Autonomous Systems. 2015;63(P3):230-43.
+-   [17] Yohanan S, MacLean KE. The role of affective touch in human-robot interaction: Human intent and expectations in touching the Haptic Creature. International Journal of Social Robotics. 2012;4(2):163-80.
 -   [18] National Aeronautics and Space Administration. NASAfacts - Robonaut Facts. 2011.
 -   [19] Bonsor K, Gerbis N. How Robonauts work [Internet]. How stuff works. Available from: https://science.howstuffworks.com/robonaut2.html.
--   [21] Robles-De-La-Torre G. The Importance of the sense of touch in virtual and real environments. IEEE Multimedia. 2006;13(3):24&ndash;!20.
--   [22] Gibson JJ. Psychological Review Observations on Active Touch Psychological Review. 1962;69(6):477&ndash;!21.
+-   [21] Robles-De-La-Torre G. The Importance of the sense of touch in virtual and real environments. IEEE Multimedia. 2006;13(3):24-30.
+-   [22] Gibson JJ. Psychological Review Observations on Active Touch Psychological Review. 1962;69(6):477-91.
 -   [23] Schiff W, Foulke E. Tactual Perception: A Sourcebook. In Cambridge: Cambridge University Press; 1982.
--   [24] Ponton D. The pragmatics of the handshake: A politeness index in British and Italian usage. Vestnik Rossijskogo Universiteta Družby Narodov: Seriâ Lingvistika. 2014;0(4):60&ndash;!25.
--   [25] Bennington G. Handshake. Derrida today. 2008;1(2):167&ndash;!24.
--   [26] White RJ. Weightlessness and the human body. Scientific American. 1998;279(3):58&ndash;!23.
+-   [24] Ponton D. The pragmatics of the handshake: A politeness index in British and Italian usage. Vestnik Rossijskogo Universiteta Družby Narodov: Seriâ Lingvistika. 2014;0(4):60-75.
+-   [25] Bennington G. Handshake. Derrida today. 2008;1(2):167-84.
+-   [26] White RJ. Weightlessness and the human body. Scientific American. 1998;279(3):58-63.
 -   [27] Gaskill M. Making sense of human senses in space [Internet]. NASA website. 2018. Available from: https://www.nasa.gov/mission_pages/station/research/news/human_senses_in_space.
 -   [28] Coeckelbergh M. Growing moral relations. Growing Moral Relations. Houndsmills: Palgrave Macmillan UK; 2012.
--   [29] Cerulo KA. Nonhumans in Social Interaction. Annual Review of Sociology. 2009;35(1):531&ndash;!22.
--   [30] Horton D, Richard Wohl R. Mass communication and para-social interaction. Psychiatry. 1956;19(3):215&ndash;!29.
+-   [29] Cerulo KA. Nonhumans in Social Interaction. Annual Review of Sociology. 2009;35(1):531-52.
+-   [30] Horton D, Richard Wohl R. Mass communication and para-social interaction. Psychiatry. 1956;19(3):215-29.
 -   [31] Reeves B, Nass CI. The media equation: How people treat computers, television, and new media like real people and places. Cambridge university press; 1996.
--   [32] Nass C, Moon Y, Fogg BJ, Reeves B, Dryer DC. Can computer personalities be human personalities? Vol. 43, International Journal of Human - Computer Studies. 1995. p. 223&ndash;!29.
+-   [32] Nass C, Moon Y, Fogg BJ, Reeves B, Dryer DC. Can computer personalities be human personalities? Vol. 43, International Journal of Human - Computer Studies. 1995. p. 223-39.
 -   [33] Reeves B, Nass. CI. The media equation: How people treat computers, television, and new media like real people and places. Cambridge University Press; 1996.
--   [34] Nass C, Moon Y. Machines and mindlessness: Social responses to computers. Journal of Social Issues. 2000;56(1):81&ndash;!203.
+-   [34] Nass C, Moon Y. Machines and mindlessness: Social responses to computers. Journal of Social Issues. 2000;56(1):81-103.
 -   [35] Lane H. Wings in orbit: Scientific and engineering legacies of the space shuttle [Internet]. NASA website. 2011. Available from: https://www.nasa.gov/mission_pages/station/research/news/human_senses_in_space.
 -   [36] Ackerman E. NASA JSC unveils Valkyrie DRC Robot [Internet]. IEEE Spectrum. 2013. Available from: https://spectrum.ieee.org/automaton/robotics/military-robots/nasa-jsc-unveils-valkyrie-drc-robot.
 -   [37] Schaffer S. OK computer [Internet]. Imaginary futures. 2007 [cited 2020 Jul 9]. Available from: http://www.imaginary futures.net/2007/04/16/ok-computer-by-simon-schaffer.
@@ -134,17 +137,17 @@ Lively alterity relations are established in many other contexts of human-techno
 -   [40] Coding Kids. Pepper robot You only shake hands with me [Internet]. 2017. Available from: https://youtu.be/0_hICYW_17Q.
 -   [41] Dreyfus HL. What computers can't do. A critique of artificial reason. Harper and Row. 1972.
 -   [42] Dreyfus H. How representational cognitivism failed and is being replaced by body/world coupling. In: Leidlmair K, editor. After Cognitivism. Dordrecht: Springer; 2009.
--   [43] Duffy B, Joue G. Intelligent robots: The question of embodiment. Proceedings of Brain-Machine 2000. 2000. p. 20&ndash;!2.
--   [44] Brooks RA. Intelligence without representation. Artificial Intelligence. 1991;47(1&ndash;!2):139&ndash;!29.
--   [45] Brooks R. How to build complete creatures rather than isolated cognitive simulators. Artificial Intelligence. 1987;225&ndash;!239.
+-   [43] Duffy B, Joue G. Intelligent robots: The question of embodiment. Proceedings of Brain-Machine 2000. 2000. p. 20-2.
+-   [44] Brooks RA. Intelligence without representation. Artificial Intelligence. 1991;47(1-3):139-59.
+-   [45] Brooks R. How to build complete creatures rather than isolated cognitive simulators. Artificial Intelligence. 1987;225-239.
 -   [46] Arkin R. Behavior-Based Robotics. Cambridge, MA: MIT Press; 1998.
--   [47] Badger JM, Yamokoski JD, Wightman BJ. Towards autonomous operation of Robonaut 2. AIAA Infotech at Aerospace Conference and Exhibit 2012. 2012. p. 2&ndash;!2.
--   [48] Chesher C. FURO at Robotworld: Human-robot metacommunication and media studies. In Adelaide: Cultural Studies Association of Australia; 2012. p. 1&ndash;!20.
--   [49] Jung MM, van der Leij L., Kelders SM. An exploration of the benefits of an animallike robot companion with more advanced touch interaction capabilities for dementia care. Frontiers in ICT. 2017;4(16):1&ndash;!21.
--   [50] Jindai M, Watanabe T. A small-size handshake robot system based on a handshake approaching motion model with a voice greeting. In: 2010 IEEE/ASME International Conference on Advanced Intelligent Mechatronics. Montreal, Canada: IEEE; 2010. p. 521&ndash;!2.
--   [51] Noda T, Ishiguro H, Miyashita T, Hagita N. Map acquisition and classification of haptic interaction using cross correlation between distributed tactile sensors on the whole body surface. IEEE International Conference on Intelligent Robots and Systems. 2007. p. 1099&ndash;!205.
--   [52] Shibata T. An overview of human interactive robots for psychological enrichment. Proceedings of the IEEE. 2004;92(11):1749&ndash;!28.
--   [53] Wada K, Shibata T. Living with seal robots - Its sociopsychological and physiological influences on the elderly at a care house. IEEE Transactions on Robotics. 2007;23(5):972&ndash;!20.
--   [54] Robins B, Amirabdollahian F, Ji Z, Dautenhahn K. Tactile interaction with a humanoid robot for children with autism: A case study analysis involving user requirements and results of an initial implementation. Proceedings - IEEE International Workshop on Robot and Human Interactive Communication. 2010. p. 704&ndash;!21.
+-   [47] Badger JM, Yamokoski JD, Wightman BJ. Towards autonomous operation of Robonaut 2. AIAA Infotech at Aerospace Conference and Exhibit 2012. 2012. p. 2-4.
+-   [48] Chesher C. FURO at Robotworld: Human-robot metacommunication and media studies. In Adelaide: Cultural Studies Association of Australia; 2012. p. 1-10.
+-   [49] Jung MM, van der Leij L., Kelders SM. An exploration of the benefits of an animallike robot companion with more advanced touch interaction capabilities for dementia care. Frontiers in ICT. 2017;4(16):1-11.
+-   [50] Jindai M, Watanabe T. A small-size handshake robot system based on a handshake approaching motion model with a voice greeting. In: 2010 IEEE/ASME International Conference on Advanced Intelligent Mechatronics. Montreal, Canada: IEEE; 2010. p. 521-6.
+-   [51] Noda T, Ishiguro H, Miyashita T, Hagita N. Map acquisition and classification of haptic interaction using cross correlation between distributed tactile sensors on the whole body surface. IEEE International Conference on Intelligent Robots and Systems. 2007. p. 1099-105.
+-   [52] Shibata T. An overview of human interactive robots for psychological enrichment. Proceedings of the IEEE. 2004;92(11):1749-58.
+-   [53] Wada K, Shibata T. Living with seal robots - Its sociopsychological and physiological influences on the elderly at a care house. IEEE Transactions on Robotics. 2007;23(5):972-80.
+-   [54] Robins B, Amirabdollahian F, Ji Z, Dautenhahn K. Tactile interaction with a humanoid robot for children with autism: A case study analysis involving user requirements and results of an initial implementation. Proceedings - IEEE International Workshop on Robot and Human Interactive Communication. 2010. p. 704-11.
 
 </div>
