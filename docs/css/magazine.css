@@ -1,9 +1,3 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Noto+Serif+JP:wght@200;300;400;500;600;700;800;900&family=Raleway+Dots&display=swap"); */
-/* For russian text */
-/* @import url("https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&display=swap"); */
-/* for koran text */
-/* @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap"); */
-
 :root {
     font-size: 3.175mm;
     --wp-line-height: 1.5rem;
@@ -24,11 +18,11 @@
 
 /* prettier-ignore */
 @page:left {
-    margin-left: 45mm;
+    margin-left: 35mm;
 }
 /* prettier-ignore */
 @page:right {
-    margin-left: 45mm;
+    margin-left: 35mm;
 }
 /* prettier-ignore */
 /* @page:blank{
@@ -1021,10 +1015,18 @@ a[href*='itm_content=footer-recirc'],
         background-color: cyan;
     }
     .meta-no-print {
+        background: hsl(208deg 100% 95% / 90%);
+        border-radius: 1em;
         display: block;
+        height: 6em;
+        left: 0;
+        margin: 1em;
+        padding: 1em;
         position: fixed;
         top: 0;
-        left: 0;
+    }
+    .meta-no-print button {
+        display: inline;
     }
 
     /* Badness - fix this manually in the html */
