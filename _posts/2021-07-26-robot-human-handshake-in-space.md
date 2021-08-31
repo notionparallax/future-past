@@ -6,6 +6,8 @@ resource_type: core
 authors: Chris Chesher & David Silvera-Tawil
 source_publish_date: 2020-00-00 00:00:00 AEST
 week: 11
+layout: page
+citation: ""
 
 # this goes on the index page, and into facebook shares
 description:

@@ -6,6 +6,8 @@ resource_type: core
 authors: Evgeny Morozov
 source_publish_date: "2021-07-26T03:18:00.000Z"
 week: 3
+layout: page
+citation: ""
 
 # this goes on the index page, and into facebook shares
 description:

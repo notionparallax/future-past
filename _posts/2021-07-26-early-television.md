@@ -3,9 +3,11 @@ title: Early Television
 date: "2021-07-26T03:18:00.000Z"
 tags: The_Past_and_Futures_of_Digital_Cultures
 resource_type: core
-authors: Vincent Mosco
+authors: Deborah Chambers
 source_publish_date: "2021-07-26T03:18:00.000Z"
 week: 5
+layout: page
+citation: "Chambers, D. (2016). Changing Media, Homes and Households: Cultures, Technologies and Meanings (1st edition). Routledge."
 
 # this goes on the index page, and into facebook shares
 description:
@@ -16,12 +18,6 @@ twitter-body:
 
 featuredimg: https://m.media-amazon.com/images/P/B01EAHZFXU.01._SCLZZZZZZZ_SX500_.jpg
 ---
-
-Chambers, D. (2016). Chapter 2 Early Television. Changing media, homes and households: Cultures, technologies and meanings. London; New York: Routledge.
-
----
-
-# EARLY TELEVISION
 
 ## Introduction
 

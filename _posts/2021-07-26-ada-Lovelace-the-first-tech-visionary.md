@@ -6,6 +6,8 @@ resource_type: core
 authors: Betsy Morais
 source_publish_date: 2013-10-15 00:00:00 AEST
 week: 4
+layout: page
+citation: ""
 
 # this goes on the index page, and into facebook shares
 description:

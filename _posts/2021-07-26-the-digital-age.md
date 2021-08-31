@@ -6,6 +6,8 @@ resource_type: core
 authors: Paul E. Ceruzzi
 source_publish_date: 2012-06-15 00:00:00 AEST
 week: 4
+layout: page
+citation: ""
 
 # this goes on the index page, and into facebook shares
 description:

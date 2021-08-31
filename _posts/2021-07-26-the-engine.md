@@ -6,6 +6,8 @@ resource_type: further
 authors: Alexander Halavais
 source_publish_date: 2009-01-01 00:00:00 AEST
 week: 6
+layout: page
+citation: ""
 
 # this goes on the index page, and into facebook shares
 description:

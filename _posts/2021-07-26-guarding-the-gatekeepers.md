@@ -6,6 +6,8 @@ resource_type: core
 authors: Terry Flew
 source_publish_date: 2019-01-01 00:00:00 AEST
 week: 3
+layout: page
+citation: ""
 
 # this goes on the index page, and into facebook shares
 description:

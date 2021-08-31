@@ -6,6 +6,8 @@ resource_type: core
 authors: William Gibson
 source_publish_date: 1984-07-1 00:00:00 AEST
 week: 2
+layout: page
+citation: ""
 
 # this goes on the index page, and into facebook shares
 description:

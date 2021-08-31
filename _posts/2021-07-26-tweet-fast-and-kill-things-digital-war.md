@@ -6,6 +6,8 @@ resource_type: core
 authors: William Merrin & Andrew Hoskins
 source_publish_date: 2020-03-17 00:00:00 AEST
 week: 8
+layout: page
+citation: ""
 
 # this goes on the index page, and into facebook shares
 description:
