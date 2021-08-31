@@ -3,16 +3,27 @@ layout: default
 ---
 
 
-<h1>The Past and Futures of Digital Cultures</h1>
 <p>This unit introduces Digital Cultures, the critical interdisciplinary field of research into the cultural and social dimensions of digital technologies. It explores the histories, imaginaries, ideas, platforms and thinkers that inform the study of digital cultures. Students will examine tools and theories that explain the interrelated processes of digital media and communications development and social change. This unit will explore what it means to be a digital cultures researcher and practitioner, offering students foundational knowledge and skills for the major as well as investigating the latest technologies and trends.</p>
 <p>There's a vary glitchy printable book <a href="print.html">here</a></p>
 
 <ol>
 {% assign articles = collections.The_Past_and_Futures_of_Digital_Cultures  | sortByWeek %} 
 {%- for entry in articles %}
-    <li{% if entry.url == entry.url %} aria-current="page"{% endif %}>
+    <li>
         <a href='{{ entry.url }}'>{{ entry.data.title }}</a>&mdash;{{ entry.data.authors }} 
         (Week {{ entry.data.week }})
     </li>
 {% endfor %}
 </ol>
+
+<p>
+    There is a <a href="https://www.zotero.org/groups/4394850/tpf">Zotero group 
+    library</a> with these articles in it. For access, <a 
+    href="https://twitter.com/notionparallax">get in touch</a>.
+</p>
+<p>
+    <a href="https://twitter.com/i/lists/1432552395876102145">Here's a twitter 
+    list</a> of some of the authors above. It's still a work in progress, so if 
+    you want me to add someone, <a href="https://twitter.com/notionparallax">get 
+    in touch</a>.
+</p>
