@@ -1,14 +1,69 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+<style>
+    body {
+        display: grid;
+        height: 100vh;
+        margin: 0;
+        grid-template: auto 1fr auto / auto minmax(auto, 600px) auto;
+    }
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+    header {
+        /* background: lightpink; */
+        padding: 2rem;
+        grid-column: 1 / 4;
+    }
 
-</article>
+    .left-sidebar {
+        /* background: lightblue; */
+        grid-column: 1 / 2;
+    }
+
+    main {
+        /* background: coral; */
+        grid-column: 2 / 3;
+    }
+
+    .right-sidebar {
+        /* background: yellow; */
+        grid-column: 3 / 4;
+    }
+
+    footer {
+        /* background: wheat; */
+        padding: 2rem;
+        text-align: center;
+        grid-column: 1 / 4;
+    }
+
+    body {
+        font-family: system-ui, sans-serif;
+    }
+
+    .left-sidebar,
+    .right-sidebar {
+        padding: 1rem;
+    }
+
+    .head-matter {
+        margin: 0 -3em;
+        padding: 3em;
+        background-color: blanchedalmond;
+    }
+</style>
+
+<div class="left-sidebar"></div>
+<main>
+    <article class="post">
+        <div class="head-matter">
+            <h1 class="post-title">{{ title }}</h1>
+            <h2>{{ authors }}</h2>
+            <p class="citation">{{ citation }}</p>
+        </div>
+        {{ content }}
+    </article>
+</main>
+<div class="right-sidebar"></div>
+<footer></footer>
