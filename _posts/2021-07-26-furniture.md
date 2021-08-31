@@ -77,7 +77,7 @@ Even though kiosks and smart benches could be used for community service informa
 
 Because advertising was so prominent in their design, many people were unaware of their other functions. Asked if they’d noticed the InLinks, one person replied:
 
-> “Er no, I haven’t […] what’s it for? Is it to make free calls to anywhere in the UK? […] I just thought it was like an advertising board, I guess!”
+> “Er no, I haven’t \[…\] what’s it for? Is it to make free calls to anywhere in the UK? \[…\] I just thought it was like an advertising board, I guess!”
 
 People recognised the wide public value of free wi-fi, device charging and phone calls. But we found the public as a whole didn’t understand the data-collection aspects. The marginalised groups who relied on these services were more exposed to corporate advertising, data collection and surveillance in public spaces.
 
