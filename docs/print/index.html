@@ -9,8 +9,57 @@
         <title>🤖🤖🤖😐</title>
     </head>
 
-    <body class="not-ready">
-        <!-- # baseURL: /future-past  -->
+    <body>
+        <style>
+            body {
+                display: grid;
+                height: 100vh;
+                margin: 0;
+                grid-template: auto 1fr auto / auto minmax(auto, 600px) auto;
+            }
+
+            header {
+                /* background: lightpink; */
+                padding: 2rem;
+                grid-column: 1 / 4;
+            }
+
+            .left-sidebar {
+                /* background: lightblue; */
+                grid-column: 1 / 2;
+            }
+
+            main {
+                /* background: coral; */
+                grid-column: 2 / 3;
+            }
+
+            .right-sidebar {
+                /* background: yellow; */
+                grid-column: 3 / 4;
+            }
+
+            footer {
+                /* background: wheat; */
+                padding: 2rem;
+                text-align: center;
+                grid-column: 1 / 4;
+            }
+
+            body {
+                font-family: system-ui, sans-serif;
+            }
+
+            .left-sidebar,
+            .right-sidebar {
+                padding: 1rem;
+            }
+        </style>
+        <header>
+            <h1><a href="/">The Past and Futures of Digital Cultures</a></h1>
+        </header>
+        <div class="left-sidebar"></div>
+        <main><!-- # baseURL: /future-past  -->
 <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
 
 <link href="css/magazine.css" rel="stylesheet" type="text/css" />
@@ -77,7 +126,7 @@
                 Week 5: 
                 <a href="#h_Early Television"
                 >Early Television</a
-                >&mdash;Vincent Mosco</li>
+                >&mdash;Deborah Chambers</li>
             <li>
                 Week 6: 
                 <a href="#h_How Search Shaped and Was Shaped by the Web"
@@ -1138,11 +1187,8 @@ data-article-title="Early Television"
 
 <h1 class="article-title" id="h_Early Television">Early Television</h1>
 
-<div class="top-meta">Vincent Mosco, 2021. for week 5.</div>
+<div class="top-meta">Deborah Chambers, 2021. for week 5.</div>
 
-<p>Chambers, D. (2016). Chapter 2 Early Television. Changing media, homes and households: Cultures, technologies and meanings. London; New York: Routledge.</p>
-<hr>
-<h1>EARLY TELEVISION</h1>
 <h2>Introduction</h2>
 <p>From the beginning of broadcasting’s history, media have been a platform for public concerns and debates about the meanings and values associated with home, domesticity and family life. Powerful discourses about home, family and domestic culture accompanied the launch of broadcasting in the US and Europe during the early twenty-first century. Public and popular debates surrounding the emergence of broadcasting for home use were underscored by severe wartime disruption. Television’s (TV) development from the 1930s was interrupted across Europe by the Second World War and resumed thereafter, to become a routine part of domestic life by the 1950s. Early ideas about TV broadcasting were, then, marked by severe social and physical upheavals. This period of social turbulence brought into sharp focus changing meanings and values associated with family life, private and public spheres of society, the roles of women, and the nature of community and nation. Post-war initiatives to recover a sense of national and domestic stability shaped social responses to radio and TV, provoking public concerns about home, family and nation.</p>
 <p>These social concerns about the effects of media on families and domestic life were articulated through and corresponded with utopian and dystopian media imaginaries about TV as a technology and cultural form. Traditional ideals of home and family projected an intrinsically white, middle-class nuclear unit structured by hierarchal gendered and generational relations. Home and households were conceived as domestic spaces and cultures through a web of economic and popular cultural discursive processes involved in the imagining and promotion of media technologies for the home. Utopian media imaginaries envisaged TV as a medium capable of fostering traditional, domestic ideals of family togetherness while dystopian visions of the technology stressed the medium’s power to fragment family relations and breach the boundaries between public and private spheres of life. As the following chapters indicate, these contradictory imaginaries have, to this day, remained central to debates about the roles and meanings of media technologies in the home.</p>
@@ -4785,6 +4831,8 @@ data-article-title="Smart street furniture in Australia: a public service or sur
 <section class="inside-back-cover"></section>
 
 <section class="back-page"></section>
-
+</main>
+        <div class="right-sidebar"></div>
+        <footer></footer>
     </body>
 </html>

@@ -9,8 +9,57 @@
         <title>🤖🤖🤖😐</title>
     </head>
 
-    <body class="not-ready">
-        
+    <body>
+        <style>
+            body {
+                display: grid;
+                height: 100vh;
+                margin: 0;
+                grid-template: auto 1fr auto / auto minmax(auto, 600px) auto;
+            }
+
+            header {
+                /* background: lightpink; */
+                padding: 2rem;
+                grid-column: 1 / 4;
+            }
+
+            .left-sidebar {
+                /* background: lightblue; */
+                grid-column: 1 / 2;
+            }
+
+            main {
+                /* background: coral; */
+                grid-column: 2 / 3;
+            }
+
+            .right-sidebar {
+                /* background: yellow; */
+                grid-column: 3 / 4;
+            }
+
+            footer {
+                /* background: wheat; */
+                padding: 2rem;
+                text-align: center;
+                grid-column: 1 / 4;
+            }
+
+            body {
+                font-family: system-ui, sans-serif;
+            }
+
+            .left-sidebar,
+            .right-sidebar {
+                padding: 1rem;
+            }
+        </style>
+        <header>
+            <h1><a href="/">The Past and Futures of Digital Cultures</a></h1>
+        </header>
+        <div class="left-sidebar"></div>
+        <main>
 <style type="text/css" media="screen">
   .container {
     margin: 10px auto;
@@ -31,6 +80,8 @@
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
 </div>
-
+</main>
+        <div class="right-sidebar"></div>
+        <footer></footer>
     </body>
 </html>
